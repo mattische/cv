@@ -1,3 +1,14 @@
+title: Mattias Schertell.  # Add a space after the period
+
+logo: 1.png # Use a relative path to logo image 
+
+description: Resume for Mattias Schertell. # Fix hyphenation 
+
+show_downloads: true # Fix spelling
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+
+email: mattische@yahoo.com # Allow visitors to contact you
