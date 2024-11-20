@@ -2,10 +2,9 @@
 ### _Nuvarande position - Studierektor - [Blekinge Tekniska Högskola](https://www.bth.se/)_ 
 
 #### Summary: 
-Just nu arbetar jag på institutionen Teknik och estetik (DITE) som studierektor och universitetsadjunkt.
+Jag arbetar jag på institutionen Teknik och estetik (DITE) som studierektor och universitetsadjunkt.
 
 Jag har varit anställd på BTH sedan 2004 och i huvudsak undervisat inom datavatenskapliga såsom objektorienterad programmering, webbprogrammering och agila metoder. 
-
 Under min tid på BTH så har jag varit verksam i ett antal olika projekt som utvecklare och representant i centrala administrativa råd och grupper.
 
 Min högsta utbildning är en "Magisterexamen i Gestaltning i digitala medier".
