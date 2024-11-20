@@ -11,8 +11,8 @@ Min högsta utbildning är en "Magisterexamen i Gestaltning i digitala medier".
 
 #### Tekniska färdigheter & kunskaper:
 
-- Programmeringsspråk: _node/javascript, python, java, .NET/C#, php; Erfarenhet av Go, React, bash, Clojure_
-- Övrigt: relationsdatabaser (t.ex. MySql/MariaDB), NoSql (Mongodb/Redis), git/GitHub, OSX, Windows, Linux (t.ex. command line, ssh m.m.);._
+- Programmeringsspråk: _node/javascript, python, java, .NET/C#, php; erfarenhet av Go, React, bash, Clojure_
+- Övrigt: _relationsdatabaser, NoSql, git, Linux (t.ex. command line, ssh m.m.);._
 - Metoder och processer: _Design patterns, Scrum, Kanban._
   
 ## 🎓 Utbildning
