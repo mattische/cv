@@ -5,7 +5,7 @@
 #### Kortfattat: 
 Just nu arbetar jag på institutionen Teknik och estetik (DITE) som universitetsadjunkt och studierektor.
 
-Jag har varit anställd på BTH sedan 2004 och i huvudsak undervisat inom datavatenskapliga ämnen och områden, framförallt kopplat till webbområdet; front-end och back-end, objektorienterad programmering och agila metoder. 
+Jag har varit anställd på BTH sedan 2004 och i huvudsak undervisat inom datavatenskapliga ämnen och områden, framförallt kopplat till webb; front-end och back-end, objektorienterad programmering och agila metoder. 
 Under min tid på BTH så har jag varit verksam i ett antal olika projekt som utvecklare och representant i centrala administrativa råd och grupper.
 
 Jag har en magisterexamen i Gestaltning i digitala medier.
@@ -14,16 +14,16 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 
 #### Tekniska färdigheter & kunskaper:
 
-- Programmeringsspråk: _node/javascript, python, java, .NET/C#, php; erfarenhet av Go, React, bash, Clojure_
-- Övrigt: _relationsdatabaser, NoSql, git, Linux (t.ex. command line, ssh m.m.);._
-- Metoder och processer: _Design patterns, Scrum, Kanban._
+- **Programmeringsspråk:** _javascript, python, java, C#, php; erfarenhet av Go, bash, Clojure_
+- **Övrigt:** _relationsdatabaser, NoSql, git, UML, Linux (t.ex. command line, ssh m.m.); erfarenhet av exempelvis Docker, Apache Kafka ._
+- **Metoder och processer**: _Scrum, Kanban, design patterns ._
 
 ---
 
 
 ## 🎓 Utbildning
-- **M.Sc.**, Magisterexamen i Gestaltning i digitala medier	| <a href="https://www.bth.se/" target="_blank">BTH</a> (_AUG 2003 - JUN 2004_)	 			        		
-- **B.Sc.**, Teknologie kandidatexamen i Medieteknik | <a href="https://www.bth.se/" target="_blank">BTH</a> (_AUG 2000 - JUN 2003_)
+- **Magisterexamen i Gestaltning i digitala medier**	| <a href="https://www.bth.se/" target="_blank">BTH</a> (_AUG 2003 - JUN 2004_)	 			        		
+- **Teknologie kandidatexamen i Medieteknik** | <a href="https://www.bth.se/" target="_blank">BTH</a> (_AUG 2000 - JUN 2003_)
 
 ## 🔬 Research Experience
 **Ph.D. research @<a href="https://tnau.ac.in/" target="_blank">TNAU</a> (_2021 - 2023_)**
