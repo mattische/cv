@@ -16,7 +16,7 @@ Min högsta utbildning är en "Magisterexamen i Gestaltning i digitala medier".
 - Metoder och processer: _Design patterns, Scrum, Kanban._
   
 ## 🎓 Utbildning
-- **M.Sc.**, Magisterexamen i Gestaltning i digitala medier	| [<a href="https://www.bth.se/" target="_blank">BTH</a> (_AUG 2003 - JUN 2004_)	 			        		
+- **M.Sc.**, Magisterexamen i Gestaltning i digitala medier	| <a href="https://www.bth.se/" target="_blank">BTH</a> (_AUG 2003 - JUN 2004_)	 			        		
 - **B.Sc.**, Teknologie kandidatexamen i Medieteknik | <a href="https://www.bth.se/" target="_blank">BTH</a> (_AUG 2000 - JUN 2003_)
 
 ## 🔬 Research Experience
