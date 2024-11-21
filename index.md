@@ -25,7 +25,7 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 - **Teknologie kandidatexamen i Medieteknik** | <a href="https://www.bth.se/" target="_blank">BTH</a> (_2000 - 2003_)
 
 ## 🔬 Vidareutbildning
-**Medietekniks handledningsprocesser 15hp BTH (_2006_)**
+**Medietekniks handledningsprocesser 15hp (_2006_)**
 - Motsvarar kursen "Högskolepedagogik".
 
 **Handledning i högre utbildning (_2014_)**
@@ -39,11 +39,16 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 ## 💼 Arbetslivserfarenhet 
 **Universitetsajunkt @ <a href="https://www.bth.se/" target="_blank">BTH</a> (_JUN 2004 - pågående_)**
 - **Undervisning** - Jag är både kursansvarig och examinator i flera kurser på DITE. De senaste åren har jag varit delaktig i utvecklingen av en distansutbildningen Design av digital upplevelser för lärande. Jag undervisar på programmet inom framförallt tekniska ämnen såsom programmering och webbproduktion. Jag är delaktig i kurser på programmen Digitala och immersiva upplevelser, Digital bildproduktion och Digital ljudproduktion. 
-- **Biträdande programansvarig** på programmet Digitala upplevelser för lärande. 
+- **Biträdande programansvarig** på programmet Digitala upplevelser för lärande.
+  
 - **Programansvarig** - inom programmet Medieteknik med inriktning mot iteraktiva system ansvarade jag för och utvecklade kurser med innehåll inom front-end- och back-end-utveckling. Detta resulterade i programmet Webbutveckling som gjorde startade 2009. Jag tog över programmansvaret 2010-2018. Programmet gjorde ett namnbyte till Interaktion med webbteknologier, där jag var programansvarig 2016-2019.
-- **Studierektor** på DITE sedan 2017. Inkluderar arbete med institutionens tjänsteplanering, budget, verksamhetsmål och kursplanering. Införde team-baserat arbete vilket effektiviserade och förenklade planering och genomförande av kurser.
+  
+- **Studierektor** på DITE sedan 2017. Inkluderar arbete och ansvar för institutionens tjänsteplanering, budget, verksamhetsmål och kursplanering. Införde team-baserat arbete vilket effektiviserade och förenklade planering och genomförande av kurser.
+  
 - **Studieadministrativt råd** - jag är medlem i SA-rådet. Tillsammans med andra studierektorer, utbildningsstöd, programstöd och studentkåren är man delaktig i spörsmål och beslut som rör centrala studieadminstrativa ärenden.
-- **Utbildningsråd (UR)** - jag har varit medlem i utbildningsrådet som lärarrepresentant fakulteten Datavetenskaper sedan 2021. Rådet behandlar ärenden som berör utbildningar (tex utbildningsplaner) och ämnseområden och förbereder beslut för Utbildningsutskottet.
+  
+- **Utbildningsråd (UR)** - medlem som lärarrepresentant fakulteten Datavetenskaper sedan 2021. Rådet behandlar ärenden som berör utbildningar (tex utbildningsplaner) och ämnesområden och förbereder beslut för Utbildningsutskottet.
+  
 - **IT referensgrupp** jag är representant för min institution i denna grupp sedan 2016. Gruppens syfte är att informera om och vara rådgörande kring central infrastruktur och mjukvara inom BTH.
 
 **Back-end utvecklare @ <a href="https://www.managerzone.com/" target="_blank">ManagerZone</a> (_2007_)**
