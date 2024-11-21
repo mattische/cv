@@ -61,8 +61,9 @@ Intressant. Nämnas kan medverkan i ett antal TV-produktioner såsom Allsång p�
 - Samarbete mellan BTH, <a href="https://mak.ac.ug/" target="_blank">Makerere University</a> (Kampala, Uganda) och <a href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a> (Manila, Filippinerna). Delvis finansierat av medverkande partners samt SIDA. Projektets mål var att utveckla en applikation för bönder på landsbyggden i Uganda, för att via SMS få information om dagspriser på mejeriprodukter. Min roll i teamet var att ta fram en server-applikation för att lagra och handha priser på mejeriprodukter (API). Tekniker var html/css/javascript, php och MySql. Från BTH var professor Lena Trojer projektledare.
 
 **Kombinerad mobilitet - Växla upp! (_2018-2020_)**
-- Back-end utvecklare för framtagande av appen <a href="https://apps.apple.com/se/app/v%C3%A4xla-upp-2/id6443443846?l=en-GB" target="_blank">Växla upp!</a> (iPhone, Android). Samarbete mellan BTH och Netport där min del var att utveckla den del av applikation som tog emot och sparade registrerad data under en cykeltur. Teknikerna var node/javascript och MongoDb.
-- Det övergripande målet var att minska koldioxidutsläppen från persontransporter. Projektet finansierades av Europeiska regionala utvecklingsfonden (ERUF) där <a href="https://energikontorsyd.se/sv/l/projekt/25476" target="_blank">Energikontor sydost</a> var projektägare
+- Projekt med det övergripande målet att minska koldioxidutsläppen från persontransporter. Finansierades av Europeiska regionala utvecklingsfonden (ERUF) där <a href="https://energikontorsyd.se/sv/l/projekt/25476" target="_blank">Energikontor sydost</a> var projektägare
+- Min medverkan var i ett team från BTH och Netport som i projektet utvecklade appen <a href="https://apps.apple.com/se/app/v%C3%A4xla-upp-2/id6443443846?l=en-GB" target="_blank">Växla upp!</a> (iPhone, Android) för att regitrera cykelturer. Jag arbetade med att utveckla servern som tog emot, sparade och analyserade registrerad data under användarnas cykelturer. Teknikerna var node/javascript och MongoDb.
+
 
 ## 💻 Färdigheter inom programmering
 - Fron-end
