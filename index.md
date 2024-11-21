@@ -4,6 +4,7 @@
 
 #### Kortfattat: 
 Jag har varit anställd på BTH sedan 2004 och i huvudsak undervisat inom medieteknik och datavatenskapliga ämnen, framförallt kopplat till webb; front-end och back-end, objektorienterad programmering och agila metoder. Det är dessa ämnen jag intresserad av och brinner för.
+
 Parallellt med undervisning så är jag studierektor och representant i olika centrala administrativa råd och grupper. Jag har också varit programansvarig och medlem i ett antal olika projekt som utvecklare .
 
 Jag har en magisterexamen i Gestaltning i digitala medier.
@@ -23,7 +24,7 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 - **Magisterexamen i Gestaltning i digitala medier**	| <a href="https://www.bth.se/" target="_blank">BTH</a> (_AUG 2003 - JUN 2004_)	 			        		
 - **Teknologie kandidatexamen i Medieteknik** | <a href="https://www.bth.se/" target="_blank">BTH</a> (_AUG 2000 - JUN 2003_)
 
-## 🔬 Vidareutbilnding
+## 🔬 Vidareutbildning
 **Medietekniks handledningsprocesser MEA037 BTH (_2006_)**
 - Den här kursen motsvarar "Högskolenpedagogik" om totalt 15hp
 
@@ -37,28 +38,34 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 
 ## 💼 Arbetslivserfarenhet 
 **Universitetsajunkt @ <a href="https://www.bth.se/" target="_blank">BTH</a> (_JUN 2004 - pågående_)**
-- **Undervisning** 
-De senaste åren har jag varit delaktig i utvecklingen av en distansutbildningen Design av digital upplevelser för lärande. Jag undervisar inom det programmet inom framförallt tekniska ämnen såsom programmering och webbproduktion.  samt i flera kurser inom programmen Digitala och immersiva upplevelser, Digital bildproduktion, Digital ljudproduktion. Jag är både kursansvarig och examinator i flera kurser.
+- **Undervisning** - Jag är både kursansvarig och examinator i flera kurser på DITE. De senaste åren har jag varit delaktig i utvecklingen av en distansutbildningen Design av digital upplevelser för lärande. Jag undervisar på programmet inom framförallt tekniska ämnen såsom programmering och webbproduktion. Jag är delaktig i kurser på programmen Digitala och immersiva upplevelser, Digital bildproduktion och Digital ljudproduktion. 
 - **Biträdande programansvarig** på programmet Digitala upplevelser för lärande. 
 - **Programansvarig** - inom programmet Medieteknik med inriktning mot iteraktiva system ansvarade jag för och utvecklade kurser med innehåll inom front-end- och back-end-utveckling. Detta resulterade i programmet Webbutveckling som gjorde startade 2009. Jag tog över programmansvaret 2010-2018. Programmet gjorde ett namnbyte till Interaktion med webbteknologier, där jag var programansvarig 2016-2019.
-- **Studierektor** sedan 2017. Inkluderar arbete med institutionens tjänsteplanering, budget, verksamhetsmål och kursplanering. Införde team-baserat arbete vilket effektiviserade och förenklade planering och genomförande av kurser.
+- **Studierektor** på DITE sedan 2017. Inkluderar arbete med institutionens tjänsteplanering, budget, verksamhetsmål och kursplanering. Införde team-baserat arbete vilket effektiviserade och förenklade planering och genomförande av kurser.
 - **Studieadministrativt råd** - jag är medlem i SA-rådet. Tillsammans med andra studierektorer, utbildningsstöd, programstöd och studentkåren är man delaktig i spörsmål och beslut som rör centrala studieadminstrativa ärenden.
 - **Utbildningsråd (UR)** - jag har varit medlem i utbildningsrådet som lärarrepresentant fakulteten Datavetenskaper sedan 2021. Rådet behandlar ärenden som berör utbildningar (tex utbildningsplaner) och ämnseområden och förbereder beslut för Utbildningsutskottet.
 - **IT referensgrupp** jag är representant för min institution i denna grupp sedan 2016. Gruppens syfte är att informera om och vara rådgörande kring central infrastruktur och mjukvara inom BTH.
 
 **Back-end utvecklare @ <a href="https://www.managerzone.com/" target="_blank">ManagerZone</a> (_2007_)**
-- Jag blev rekryterad till det Karlskrona-baserade ManagerZone som back-end utvecklare. Under denna tid var jag tjänstledig från BTH.
-- Jag ingick i ett SCRUM-team som utvecklade funktionalitet för KPI (Key Perfomance Indicators); utveckla komponenter för mäta och identifiera vilka delar av spelet som var (mest) inkomstbringande (ROI).
+- Jag blev rekryterad till det Karlskrona-baserade spelföretaget ManagerZone som back-end utvecklare. Under denna tid var jag tjänstledig från BTH.
+- Jag ingick i ett SCRUM-team som utvecklade funktionalitet för KPI (Key Perfomance Indicators); utveckla komponenter för analysera vilka delar av spelet som var (mest) inkomstbringande (ROI).
 - Jag ledde också ett arbete för en migrering från versionshanteringssystemet CVS till SVN.
 - 2007 blev ManagerZone uppköpt av <a href="https://en.wikipedia.org/wiki/DoubleClick" target="_blank">Doubleclick</a> som i sin tur blev uppköpta av Google året efter.
 
-**Musiker @ <a href="https://sv-se.facebook.com/playtones/" target="_blank">Playtones</a> (_2010 - 2013_)**
+:guitar: **Musiker @ <a href="https://sv-se.facebook.com/playtones/" target="_blank">Playtones</a> (_2010 - 2013_)**
 - Under tre år försöjde jag mig som musiker i gruppen The Playtones - efter medverkan och vinst i TV-programmet <a href="https://sv.wikipedia.org/wiki/Dansbandskampen_2009" target="_blank">Dansbandskampen</a> vintern 2009 blev en hobby ett leverbröd ett par år.
 Intressant. Nämnas kan medverkan i ett antal TV-produktioner såsom Allsång på skansen, Bingolotto och Melodifestivalen. Jag var tjänstledig från BTH.
 
+## :computer: Projekt
+**Spider SMS (_2005-2006_)**
+- Samarbete mellan BTH, <a href="https://mak.ac.ug/" target="_blank">Makerere University</a> (Kampala, Uganda) och <a href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a> (Manila, Filippinerna). Delvis finansierat av medverkande partners samt SIDA. Projektets mål var att utveckla en applikation för bönder på landsbyggden i Uganda, för att via SMS få information om dagspriser på mejeriprodukter. Min roll i teamet var att ta fram en server-applikation för att lagra och handha priser på mejeriprodukter (API). Tekniker var html/css/javascript, php och MySql. Från BTH var professor Lena Trojer projektledare.
 
-## 💻 Programming and data analysis skills
-- Proficient in full stack development of **R packages** using modular coding practices.
+**Kombinerad mobilitet - Växla upp! (_2018-2020_)**
+- Back-end utvecklare för framtagande av appen <a href="https://apps.apple.com/se/app/v%C3%A4xla-upp-2/id6443443846?l=en-GB" target="_blank">Växla upp!</a> (iPhone, Android). Samarbete mellan BTH och Netport där min del var att utveckla den del av applikation som tog emot och sparade registrerad data under en cykeltur. Teknikerna var node/javascript och MongoDb.
+- Det övergripande målet var att minska koldioxidutsläppen från persontransporter. Projektet finansierades av Europeiska regionala utvecklingsfonden (ERUF) där <a href="https://energikontorsyd.se/sv/l/projekt/25476" target="_blank">Energikontor sydost</a> var projektägare
+
+## 💻 Färdigheter inom programmering
+- Fron-end
 - Created **production-grade Shiny web applications** for interactive data analysis and visualization and; expertise in dependency management tools like Golem for scalable deployment.
 - **Machine learning model** building for image classification/segmentation tasks; trained CNNs and other deep learning architectures in R, Python (PyCharm).
 - **Multivariate data analysis** of large-scale omics datasets including genomics, phenomics and metabolomics using cutting-edge bioinformatics tools.
