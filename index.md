@@ -36,6 +36,8 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 - Ledarutvecklingsprogram för att utveckla sina färdigheter i att leda sig själva och andra genom formellt och informellt ledarskap.
 - Ledare Camilla Rüden.
 
+---
+
 ## 💼 Arbetslivserfarenhet 
 **Universitetsajunkt @ <a href="https://www.bth.se/" target="_blank">BTH</a> (_JUN 2004 - pågående_)**
 -  ✅ **Undervisning** - Jag är både kursansvarig och examinator i flera kurser på DITE. De senaste åren har jag varit delaktig i utvecklingen av en distansutbildningen Design av digital upplevelser för lärande. Jag undervisar på programmet inom framförallt tekniska ämnen såsom programmering och webbproduktion. Jag är delaktig i kurser på programmen Digitala och immersiva upplevelser, Digital bildproduktion och Digital ljudproduktion.
@@ -62,6 +64,8 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 - Under tre år var jag tjänstledig från BTH och försöjde jag mig som musiker i gruppen The Playtones. Efter medverkan och vinst i TV-programmet <a href="https://sv.wikipedia.org/wiki/Dansbandskampen_2009" target="_blank">Dansbandskampen</a> vintern 2009, blev en hobby ett leverbröd.
 Intressant att få uppleva musikindustrin från insidan. Uppträden i TV-produktioner såsom Allsång på skansen och Melodifestivalen.
 
+---
+
 ## :computer: Projekt
  ✅ **Spider SMS (_2005-2006_)**
 - Samarbete mellan BTH, <a href="https://mak.ac.ug/" target="_blank">Makerere University</a> (Kampala, Uganda) och <a href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a> (Manila, Filippinerna). Delvis finansierat av medverkande partners samt SIDA. Projektets mål var att utveckla en applikation för bönder på landsbyggden i Uganda, för att via SMS få information om dagspriser på mejeriprodukter. Min roll i teamet var att ta fram en server-applikation för att lagra och handha priser på mejeriprodukter (API). Tekniker var html/css/javascript, php och MySql. Från BTH var professor Lena Trojer projektledare.
@@ -70,6 +74,7 @@ Intressant att få uppleva musikindustrin från insidan. Uppträden i TV-produkt
 - Projekt med det övergripande målet att minska koldioxidutsläppen från persontransporter. Finansierades av Europeiska regionala utvecklingsfonden (ERUF) där <a href="https://energikontorsyd.se/sv/l/projekt/25476" target="_blank">Energikontor sydost</a> var projektägare.
 - Min medverkan var i ett team från BTH och Netport som utvecklade appen <a href="https://apps.apple.com/se/app/v%C3%A4xla-upp-2/id6443443846?l=en-GB" target="_blank">Växla upp!</a> (iPhone, Android) för att registrera cykelturer. Jag arbetade med att utveckla servern mottog, lagrade och analyserade registrerad data under användarnas cykelturer. Teknikerna var node/javascript, MongoDb, git och testramverket Jest.
 
+---
 
 ## 💻 Färdigheter inom "programmering" och "webb"
 - **Språk**: python, javascript, Java, php. Erfarenhet av: C, C++, C#, Go, bash.
@@ -86,7 +91,7 @@ Intressant att få uppleva musikindustrin från insidan. Uppträden i TV-produkt
 - Testning (med tex Jest).
 - Erfarenhet av tex Docker, nginx, caddy och Apache Kafka.
 
-    
+---    
 
 ## 📚 Referenser
 
