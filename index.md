@@ -3,9 +3,6 @@
 #### _Universitetsadjunkt/Studierektor - [Blekinge Tekniska Högskola](https://www.bth.se/)_ 
 
 #### Kortfattat: 
-Jag är universitetsadjunkt, studierektor och bitr. programansvarig på institutionen Teknik och estetik (DITE). 
-De senaste åren har jag varit delaktig i utvecklingen av en distansutbildningen Design av digital upplevelser för lärande. Jag undervisar inom det programmet inom framförallt tekniska ämnen såsom programmering och webbproduktion. 
-
 Jag har varit anställd på BTH sedan 2004 och i huvudsak undervisat inom medieteknik och datavatenskapliga ämnen, framförallt kopplat till webb; front-end och back-end, objektorienterad programmering och agila metoder. Det är dessa ämnen jag intresserad av och brinner för.
 Parallellt med undervisning så är jag studierektor och representant i olika centrala administrativa råd och grupper. Jag har också varit programansvarig och medlem i ett antal olika projekt som utvecklare .
 
@@ -40,7 +37,9 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 
 ## 💼 Arbetslivserfarenhet 
 **Universitetsajunkt @ <a href="https://www.bth.se/" target="_blank">BTH</a> (_JUN 2004 - pågående_)**
-- **Kursansvar**, **examinator**, **undervisning** och **handledning** i kurser inom webbutveckling och webbprogrammering (fron-end och back-end), objektorienterad programmering, systemutveckling och agila metoder samt i flera kurser inom programmen Digitala och immersiva upplevelser, Digital bildproduktion, Digital ljudproduktion.
+- **Undervisning** 
+De senaste åren har jag varit delaktig i utvecklingen av en distansutbildningen Design av digital upplevelser för lärande. Jag undervisar inom det programmet inom framförallt tekniska ämnen såsom programmering och webbproduktion.  samt i flera kurser inom programmen Digitala och immersiva upplevelser, Digital bildproduktion, Digital ljudproduktion. Jag är både kursansvarig och examinator i flera kurser.
+- **Biträdande programansvarig** på programmet Digitala upplevelser för lärande. 
 - **Programansvarig** - inom programmet Medieteknik med inriktning mot iteraktiva system ansvarade jag för och utvecklade kurser med innehåll inom front-end- och back-end-utveckling. Detta resulterade i programmet Webbutveckling som gjorde startade 2009. Jag tog över programmansvaret 2010-2018. Programmet gjorde ett namnbyte till Interaktion med webbteknologier, där jag var programansvarig 2016-2019.
 - **Studierektor** sedan 2017. Inkluderar arbete med institutionens tjänsteplanering, budget, verksamhetsmål och kursplanering. Införde team-baserat arbete vilket effektiviserade och förenklade planering och genomförande av kurser.
 - **Studieadministrativt råd** - jag är medlem i SA-rådet. Tillsammans med andra studierektorer, utbildningsstöd, programstöd och studentkåren är man delaktig i spörsmål och beslut som rör centrala studieadminstrativa ärenden.
@@ -48,9 +47,15 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 - **IT referensgrupp** jag är representant för min institution i denna grupp sedan 2016. Gruppens syfte är att informera om och vara rådgörande kring central infrastruktur och mjukvara inom BTH.
 
 **Back-end utvecklare @ <a href="https://www.managerzone.com/" target="_blank">ManagerZone</a> (_2007_)**
-- Som back-end utvecklare på ManagerZone bestod mina arbetsuppgifter av att utveckla funktionalitet för KPI (Key Perfomance Indicators). Detta innefattade att ta fram komponenter för mäta och identifiera vilka delar av spelet som var (mest) inkomstbringande (ROI).
-Jag ledde också ett arbete för en migrering från versionshanteringssystemet CVS till SVN. 
-Jag ingick i ett SCRUM-team och arbetade i huvudsak med javscript, php och mysql. Företagets huvudkontor var baserat i Karlskrona och under 2007 blev man uppköpta av <a href="https://en.wikipedia.org/wiki/DoubleClick" target="_blank">Doubleclick</a> som i sin tur blev uppköpta av Google året efter.
+- Jag blev rekryterad till det Karlskrona-baserade ManagerZone som back-end utvecklare. Under denna tid var jag tjänstledig från BTH.
+- Jag ingick i ett SCRUM-team som utvecklade funktionalitet för KPI (Key Perfomance Indicators); utveckla komponenter för mäta och identifiera vilka delar av spelet som var (mest) inkomstbringande (ROI).
+- Jag ledde också ett arbete för en migrering från versionshanteringssystemet CVS till SVN.
+- 2007 blev ManagerZone uppköpt av <a href="https://en.wikipedia.org/wiki/DoubleClick" target="_blank">Doubleclick</a> som i sin tur blev uppköpta av Google året efter.
+
+**Musiker @ <a href="https://sv-se.facebook.com/playtones/" target="_blank">Playtones</a> (_2010 - 2013_)**
+- Under tre år försöjde jag mig som musiker i gruppen The Playtones - efter medverkan och vinst i TV-programmet <a href="https://sv.wikipedia.org/wiki/Dansbandskampen_2009" target="_blank">Dansbandskampen</a> vintern 2009 blev en hobby ett leverbröd ett par år.
+Intressant. Nämnas kan medverkan i ett antal TV-produktioner såsom Allsång på skansen, Bingolotto och Melodifestivalen. Jag var tjänstledig från BTH.
+
 
 ## 💻 Programming and data analysis skills
 - Proficient in full stack development of **R packages** using modular coding practices.
