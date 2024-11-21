@@ -57,7 +57,7 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 - Jag ledde också ett arbete för en migrering från versionshanteringssystemet CVS till SVN.
 - 2007 blev ManagerZone uppköpt av <a href="https://en.wikipedia.org/wiki/DoubleClick" target="_blank">Doubleclick</a> som i sin tur blev uppköpta av Google året efter.
 
-:guitar: **Musiker @ <a href="https://sv-se.facebook.com/playtones/" target="_blank">Playtones</a> (_2010 - 2013_)**
+🎼 **Musiker @ <a href="https://sv-se.facebook.com/playtones/" target="_blank">Playtones</a> (_2010 - 2013_)**
 - Under tre år var jag tjänstledig från BTH och försöjde jag mig som musiker i gruppen The Playtones. Efter medverkan och vinst i TV-programmet <a href="https://sv.wikipedia.org/wiki/Dansbandskampen_2009" target="_blank">Dansbandskampen</a> vintern 2009, blev en hobby ett leverbröd ett par år.
 Intressant. Nämnas kan medverkan i ett antal TV-produktioner såsom Allsång på skansen, Bingolotto och Melodifestivalen. Jag var tjänstledig från BTH.
 
