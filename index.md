@@ -38,8 +38,9 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 
 ## 💼 Arbetslivserfarenhet 
 **Universitetsajunkt @ <a href="https://www.bth.se/" target="_blank">BTH</a> (_JUN 2004 - pågående_)**
--  ✅ **Undervisning** - Jag är både kursansvarig och examinator i flera kurser på DITE. De senaste åren har jag varit delaktig i utvecklingen av en distansutbildningen Design av digital upplevelser för lärande. Jag undervisar på programmet inom framförallt tekniska ämnen såsom programmering och webbproduktion. Jag är delaktig i kurser på programmen Digitala och immersiva upplevelser, Digital bildproduktion och Digital ljudproduktion. 
-- **Biträdande programansvarig** på programmet Digitala upplevelser för lärande.
+-  ✅ **Undervisning** - Jag är både kursansvarig och examinator i flera kurser på DITE. De senaste åren har jag varit delaktig i utvecklingen av en distansutbildningen Design av digital upplevelser för lärande. Jag undervisar på programmet inom framförallt tekniska ämnen såsom programmering och webbproduktion. Jag är delaktig i kurser på programmen Digitala och immersiva upplevelser, Digital bildproduktion och Digital ljudproduktion.
+  
+-  ✅ **Biträdande programansvarig** på programmet Digitala upplevelser för lärande.
   
 -  ✅ **Programansvarig** - inom programmet Medieteknik med inriktning mot iteraktiva system ansvarade jag för och utvecklade kurser med innehåll inom front-end- och back-end-utveckling. Detta resulterade i programmet Webbutveckling som gjorde startade 2009. Jag tog över programmansvaret 2010-2018. Programmet gjorde ett namnbyte till Interaktion med webbteknologier, där jag var programansvarig 2016-2019.
   
@@ -62,7 +63,7 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 Intressant. Nämnas kan medverkan i ett antal TV-produktioner såsom Allsång på skansen, Bingolotto och Melodifestivalen. Jag var tjänstledig från BTH.
 
 ## :computer: Projekt
-**Spider SMS (_2005-2006_)**
+ ✅ **Spider SMS (_2005-2006_)**
 - Samarbete mellan BTH, <a href="https://mak.ac.ug/" target="_blank">Makerere University</a> (Kampala, Uganda) och <a href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a> (Manila, Filippinerna). Delvis finansierat av medverkande partners samt SIDA. Projektets mål var att utveckla en applikation för bönder på landsbyggden i Uganda, för att via SMS få information om dagspriser på mejeriprodukter. Min roll i teamet var att ta fram en server-applikation för att lagra och handha priser på mejeriprodukter (API). Tekniker var html/css/javascript, php och MySql. Från BTH var professor Lena Trojer projektledare.
 
  ✅ **Kombinerad mobilitet - Växla upp! (_2018-2020_)**
@@ -76,7 +77,7 @@ Intressant. Nämnas kan medverkan i ett antal TV-produktioner såsom Allsång p�
 - **Back-end**: node, relationsdatabaser och NoSql (MySql, SQL Server, Mongodb, Redis).
 
 
-**Övrigt:**
+💾 **Övrigt:**
   
 - Git/GitHub.
 - Linux: command line, erfarenhet av diverse OS.
@@ -84,12 +85,6 @@ Intressant. Nämnas kan medverkan i ett antal TV-produktioner såsom Allsång p�
 - Agila metoder (Scrum, Kanban etc).
 - Testning (med tex Jest).
 - Erfarenhet av tex Docker, nginx, caddy och Apache Kafka.
-
-
-
-## ✍️ Articles & Blogs
-- <a href="https://medium.com/@victorallan" target="_blank">Medium Articles</a>
-
 
     
 
@@ -104,15 +99,14 @@ Intressant. Nämnas kan medverkan i ett antal TV-produktioner såsom Allsång p�
 
 |     |     |
 |:----|:----|
-| **Name:** | **Prof. Mani Vetriventhan** |
-| **Position:** | Senior Scientist, Plant Genetic Resources |
-| **Organization:** | ICRISAT, Hyderabad, India |
-| **E-mail:** | <a href="mailto:M.Vetriventhan@cgiar.org">M.Vetriventhan@cgiar.org</a> |
-| **LinkedIn:** | <a href="https://www.linkedin.com/in/vetriventhan-mani-26468322/" target="_blank">Visit Page</a> |
+| **Name:** | **Prof. Markus Fiedler** |
+| **Position:** | Forsknings- och huvudområdesansvarig, Institutionen för teknik och estetik, DITE, BTH |
+| **Organization:** | Blekinge Tekniska högskola, Karlskrona, Sweden |
+| **E-mail:** | <a href="mailto:mfi@bth.se">email</a>> |
 |     |     |
 
 
-## 📞 Contact
+## 📞 Kontakt
 
 | **Name**   | Mattias Schertell | 
 | **E-mail**   | <a href="mailto:msc@bth.se">arbete</a> | <a href="schertell@gmail.com">privat</a> |
