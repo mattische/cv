@@ -66,7 +66,7 @@ Intressant att få uppleva musikindustrin från insidan. Uppträden i TV-produkt
 
 ---
 
-## :computer: Projekt
+## 🌎 Projekt
  ✅ **Spider SMS (_2005-2006_)**
 - Samarbete mellan BTH, <a href="https://mak.ac.ug/" target="_blank">Makerere University</a> (Kampala, Uganda) och <a href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a> (Manila, Filippinerna). Delvis finansierat av medverkande partners samt SIDA. Projektets mål var att utveckla en applikation för bönder på landsbyggden i Uganda, för att via SMS få information om dagspriser på mejeriprodukter. Min roll i teamet var att ta fram en server-applikation för att lagra och handha priser på mejeriprodukter (API). Tekniker var html/css/javascript, php och MySql. Från BTH var professor Lena Trojer projektledare.
 
