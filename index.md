@@ -14,7 +14,7 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 #### Tekniska färdigheter & kunskaper:
 
 - **Programmeringsspråk:** _javascript, python, java, C#, php; erfarenhet av Go, bash_
-- **Övrigt:** _relationsdatabaser, NoSql, git, UML, Linux (t.ex. command line, ssh m.m.); erfarenhet av exempelvis Docker, Apache Kafka ._
+- **Övrigt:** _relationsdatabaser, NoSql, git, UML, Linux (command line, ssh m.m.); erfarenhet av exempelvis Docker, Apache Kafka ._
 - **Metoder och processer**: _Scrum, Kanban, design patterns ._
 
 ---
