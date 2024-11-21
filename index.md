@@ -21,8 +21,8 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 
 
 ## 🎓 Utbildning
-- **Magisterexamen i Gestaltning i digitala medier**	| <a href="https://www.bth.se/" target="_blank">BTH</a> (_AUG 2003 - JUN 2004_)	 			        		
-- **Teknologie kandidatexamen i Medieteknik** | <a href="https://www.bth.se/" target="_blank">BTH</a> (_AUG 2000 - JUN 2003_)
+- **Magisterexamen i Gestaltning i digitala medier**	| <a href="https://www.bth.se/" target="_blank">BTH</a> (_2003 - 2004_)	 			        		
+- **Teknologie kandidatexamen i Medieteknik** | <a href="https://www.bth.se/" target="_blank">BTH</a> (_2000 - 2003_)
 
 ## 🔬 Vidareutbildning
 **Medietekniks handledningsprocesser 15hp BTH (_2006_)**
