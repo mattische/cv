@@ -39,7 +39,7 @@ Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
   - ASP.NET, C#, SQL Server, Web services.
   
 
-## 🔬 VIDAREUTBILDNING
+### 🔬 Vidareutbildning
 
 **Medietekniks handledningsprocesser 15hp** (_2006_)
 - Motsvarar kursen "Högskolepedagogik".
