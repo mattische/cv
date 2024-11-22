@@ -1,4 +1,5 @@
 import os
+import re
 from markdown2 import markdown
 from docx import Document
 from fpdf import FPDF
