@@ -26,7 +26,7 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
   - .NET, .NET Remoting, COM+, C#, SQL Server.
                  		
 - **Teknologie kandidatexamen i Medieteknik** | <a href="https://www.bth.se/" target="_blank">BTH</a> (_2000 - 2003_)
-  - Digital ansökan om körkortstillstånd på Stockholms länsstyrelse.
+  - Examensarbete: Digital ansökan om körkortstillstånd på Stockholms länsstyrelse.
   - ASP.NET, SQL Server, html/css/javascript.
 
 ## 🔬 Vidareutbildning
