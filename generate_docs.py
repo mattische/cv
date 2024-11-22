@@ -1,3 +1,9 @@
+##############################################################################################################################
+# author: @mattische                                                                                                         #
+# Hej! Masse här!                                                                                                            #
+# detta script är en del av workflow/gihub action som genererar filer när jag pushar/uppdaterar innehållet i index.md        #
+##############################################################################################################################
+
 import os
 import re
 from markdown2 import markdown
@@ -6,7 +12,7 @@ from fpdf import FPDF
 from bs4 import BeautifulSoup
 from weasyprint import HTML
 
-# Filnamn
+
 INDEX_FILE = "index.md"
 README_FILE = "README.md"
 OUTPUT_DIR = "files"
@@ -28,13 +34,14 @@ def write_file(filepath, content):
 def markdown_to_html(md_content):
     return markdown(md_content)
 
-# från md till html - med bootstrap
+# från md till html - ink bootstrap
 def generate_html(md_content):
     html_content = markdown_to_html_with_template(md_content)
     html_file = os.path.join(OUTPUT_DIR, "index.html")
     with open(html_file, "w", encoding="utf-8") as file:
         file.write(html_content)
 
+# inkludera bootstrap cdn
 def markdown_to_html_with_template(md_content):
     # Konvertera Markdown till HTML
     body_content = markdown(md_content)
@@ -111,18 +118,18 @@ def html_to_docx(html_content, output_path):
 def html_to_pdf(html_content, output_path):
     HTML(string=html_content).write_pdf(output_path)
 
+# Ta bort tecken som inte stöds av "latin-1" (Unicode problem)
 def sanitize_content(content):
-    # Ta bort tecken som inte stöds av "latin-1"
     return re.sub(r'[^\x00-\xFF]', '', content)
 
+# kopiera till README.md
 def update_readme(md_content):
     write_file(README_FILE, md_content)
 
 def main():
-    # Skapa output-mappen om den inte finns
+    # Skapa output mapp
     create_output_dir()
 
-    # Läs innehåll från index.md
     md_content = read_markdown_file(INDEX_FILE)
 
 
@@ -137,7 +144,6 @@ def main():
     pdf_path = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".pdf")
     html_to_docx(html_content, docx_path)
     html_to_pdf(html_content, pdf_path)
-    
     
 
     # Uppdatera README.md
