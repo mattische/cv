@@ -132,7 +132,8 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
   <tr><td>Position:</td><td>Head of Department</td></tr>
   <tr><td>Organization:</td><td>Blekinge Institute of Technology, Sweden</td></tr>
   <tr><td>Email:</td><td><a href="mailto:sjo@bth.se">work email</a></td></tr>
-  <tr><td>Phone:</td><td><a href="tel:+46455385710">+46455 38 57 10</a><a href="tel:+46708878708">+4670 887 87 08</a></td></tr>
+  <tr><td>Phone 1:</td><td><a href="tel:+46455385710">+46455 38 57 10</a></td></tr>
+  <tr><td>Phone 2:</td><td><a href="tel:+46708878708">+4670 887 87 08</a></td></tr>
 </table>
 
 <table>
@@ -140,6 +141,8 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
   <tr><td>Position:</td><td>Forsknings- och huvudområdesansavarig Medieteknik</td></tr>
   <tr><td>Organization:</td><td>Blekinge Institute of Technology, Sweden</td></tr>
   <tr><td>Email:</td><td><a href="mailto:mfi@bth.se">work email</a></td></tr>
+  <tr><td>Phone 1:</td><td><a href="tel:+46455385923">+46455 38 59 23</a></td></tr>
+  <tr><td>Phone 2:</td><td><a href="tel:+46708537339">+4670 853 73 39</a></td></tr>
 </table>
 
 
