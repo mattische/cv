@@ -62,7 +62,7 @@ def generate_pdf(md_content):
 
     pdf.set_font("DejaVu", size=12)
 
-    soup = BeautifulSoup(markdown(md_content), "html.parser")
+    soup = BeautifulSoup(markdown(sanitized_content), "html.parser")
     for element in soup.descendants:
         if element.name == "h1":
             pdf.set_font("DejaVu", style="B", size=16)
