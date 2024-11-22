@@ -32,6 +32,7 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 ## 🔬 Vidareutbildning
 **Medietekniks handledningsprocesser 15hp (_2006_)**
 - Motsvarar kursen "Högskolepedagogik".
+- Kursansvarig Lena Trojer.
 
 **Handledning i högre utbildning (_2014_)**
 - Kurs för att utveckla sin pedagogiska skicklighet.
