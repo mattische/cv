@@ -80,7 +80,7 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 ### 💻 Back-end utvecklare @ <a href="https://www.managerzone.com/" target="_blank">ManagerZone</a> (_2007_)
 
- - 2007 rekryterades jag till ManagerZone (Karlskrona-baserat spelföretag) som back-end utvecklare. Under denna tid var jag tjänstledig från BTH.
+- 2007 rekryterades jag till ManagerZone (Karlskrona-baserat spelföretag) som back-end utvecklare. Under denna tid var jag tjänstledig från BTH.
 - I det SCRUM-team jag arbetade i, utvecklade jag funktionalitet för KPI (Key Perfomance Indicators); komponenter för analys av de delar i plattformen som var (mest) inkomstbringande (ROI).
 -  Jag ledde också en migrering från versionshanteringssystemet CVS till SVN.
 - Arbetade med Scrum, php, MySql, CVS, SVN, Linux.
