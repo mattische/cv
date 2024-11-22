@@ -72,7 +72,7 @@ Jag har tagit fram, varit kursansvarig och examinator i flera fristående distan
 -  ✅ **Utbildningsråd (UR)** - lärarrepresentant för fakulteten Datavetenskaper sedan 2021. Som medlem arbetar man med kvalitets- och utvecklingsfrågor rörande BTHs
 utbildningar på grund- och avancerad nivå och är ett beredande organ till utbildningsutskottet. I rådet behandlas också t ex utbildningsplaner, nyinrättande och nedläggning av program och lokal examensbeskrivning.
   
--  ✅ **IT referensgrupp** jag är representant för min institution i denna grupp sedan 2016. Gruppens syfte är att informera om och vara rådgörande kring central infrastruktur och mjukvara inom BTH.
+-  ✅ **IT referensgrupp** - jag är representant för min institution i denna grupp sedan 2016. Gruppens syfte är att informera om och vara rådgörande kring central infrastruktur och mjukvara inom BTH.
 
 -  ✅ **Programansvarig** - inom programmet Medieteknik med inriktning mot interaktiva system ansvarade jag för och utvecklade kurser med innehåll inom front-end- och back-end-utveckling. Detta resulterade i programmet Webbutveckling med start 2009. Jag tog över programmansvaret 2010-2019. Ett namnbyte gjordes 2016 till Interaktion med webbteknologier.
 
@@ -80,7 +80,7 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 ### 💻 Back-end utvecklare @ <a href="https://www.managerzone.com/" target="_blank">ManagerZone</a> (_2007_)
 
- - 2007 rekryterades jag till ManagerZone (Karlskrona-baserat spelföretag) som back-end utvecklare. Under denna tid var jag tjänstledig från BTH.
+- 2007 rekryterades jag till ManagerZone (Karlskrona-baserat spelföretag) som back-end utvecklare. Under denna tid var jag tjänstledig från BTH.
 - I det SCRUM-team jag arbetade i, utvecklade jag funktionalitet för KPI (Key Perfomance Indicators); komponenter för analys av de delar i plattformen som var (mest) inkomstbringande (ROI).
 -  Jag ledde också en migrering från versionshanteringssystemet CVS till SVN.
 - Arbetade med Scrum, php, MySql, CVS, SVN, Linux.
