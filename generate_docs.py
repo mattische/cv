@@ -28,6 +28,57 @@ def write_file(filepath, content):
 def markdown_to_html(md_content):
     return markdown(md_content)
 
+# från md till html - med bootstrap
+def generate_html(md_content):
+    html_content = markdown_to_html_with_template(md_content)
+    html_file = os.path.join(OUTPUT_DIR, "index.html")
+    with open(html_file, "w", encoding="utf-8") as file:
+        file.write(html_content)
+
+def markdown_to_html_with_template(md_content):
+    # Konvertera Markdown till HTML
+    body_content = markdown(md_content)
+
+    # Komplett HTML-struktur
+    html_template = f"""
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Generated Document</title>
+        <!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" 
+              integrity="sha384-rbsA2VBKQ9AR+I9AYhkfxQjCfSKV9VV2i59lFWEL8BnhE9r5qD65VohKp35uEF5e" 
+              crossorigin="anonymous">
+        <style>
+            body {{
+                padding: 2rem;
+                font-family: Arial, sans-serif;
+            }}
+            h1, h2, h3 {{
+                margin-top: 1.5rem;
+                margin-bottom: 1rem;
+            }}
+            p {{
+                margin-bottom: 1rem;
+            }}
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            {body_content}
+        </div>
+        <!-- Bootstrap JS -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" 
+                integrity="sha384-OERcA2GHZg6UAAETMcFp2xn5p6b9BjNx16bX4R7aB9QdEWw5mCXK5kFnfNIKqM+A" 
+                crossorigin="anonymous"></script>
+    </body>
+    </html>
+    """
+    return html_template
+
+
 # från html till docx
 def html_to_docx(html_content, output_path):
     doc = Document()
@@ -60,62 +111,9 @@ def html_to_docx(html_content, output_path):
 def html_to_pdf(html_content, output_path):
     HTML(string=html_content).write_pdf(output_path)
 
-def generate_html(md_content):
-    html_content = markdown(md_content)
-    html_file = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".html")
-    write_file(html_file, html_content)
-
-def generate_docx(md_content):
-    doc = Document()
-    lines = md_content.splitlines()
-    for line in lines:
-        if line.startswith("# "):  # Header 1
-            doc.add_heading(line[2:], level=1)
-        elif line.startswith("## "):  # Header 2
-            doc.add_heading(line[3:], level=2)
-        elif line.startswith("### "):  # Header 3
-            doc.add_heading(line[4:], level=3)
-        else:
-            doc.add_paragraph(line)
-    docx_file = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".docx")
-    doc.save(docx_file)
-
 def sanitize_content(content):
     # Ta bort tecken som inte stöds av "latin-1"
     return re.sub(r'[^\x00-\xFF]', '', content)
-
-
-def generate_pdf(md_content):
-    sanitized_content = sanitize_content(md_content)
-    
-    pdf = FPDF()
-    pdf.set_auto_page_break(auto=True, margin=15)
-    pdf.add_page()
-    # Lägg till en Unicode-kompatibel font
-    font_path = os.path.join(os.path.dirname(__file__), "fonts")
-    pdf.add_font("DejaVu", "", os.path.join(font_path, "DejaVuSans.ttf"), uni=True)  # Normal
-    pdf.add_font("DejaVu", "B", os.path.join(font_path, "DejaVuSans-Bold.ttf"), uni=True)  # Bold
-    pdf.add_font("DejaVu", "I", os.path.join(font_path, "DejaVuSans-Oblique.ttf"), uni=True)  # Italic
-    pdf.add_font("DejaVu", "BI", os.path.join(font_path, "DejaVuSans-BoldOblique.ttf"), uni=True)  # Bold-Italic
-
-    pdf.set_font("DejaVu", size=12)
-
-    soup = BeautifulSoup(markdown(sanitized_content), "html.parser")
-    for element in soup.descendants:
-        if element.name == "h1":
-            pdf.set_font("DejaVu", style="B", size=16)
-            pdf.cell(200, 10, txt=element.text, ln=True, align="C")
-        elif element.name == "h2":
-            pdf.set_font("DejaVu", style="B", size=14)
-            pdf.cell(200, 10, txt=element.text, ln=True, align="L")
-        elif element.name == "h3":
-            pdf.set_font("DejaVu", style="B", size=12)
-            pdf.cell(200, 10, txt=element.text, ln=True, align="L")
-        elif element.name == "p":
-            pdf.set_font("DejaVu", size=12)
-            pdf.multi_cell(0, 10, txt=element.text)
-    pdf_file = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".pdf")
-    pdf.output(pdf_file)
 
 def update_readme(md_content):
     write_file(README_FILE, md_content)
@@ -129,7 +127,8 @@ def main():
 
 
     # Konvertera Markdown till HTML
-    html_content = markdown_to_html(md_content)
+    #html_content = markdown_to_html(md_content)
+    html_content = markdown_to_html_with_template(md_content)
     html_path = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".html")
     write_file(html_path, html_content)
 
@@ -139,10 +138,7 @@ def main():
     html_to_docx(html_content, docx_path)
     html_to_pdf(html_content, pdf_path)
     
-    # Generera dokument
-    #generate_html(md_content)
-    #generate_docx(md_content)
-    #generate_pdf(md_content)
+    
 
     # Uppdatera README.md
     update_readme(md_content)
