@@ -126,28 +126,25 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 ## 📚 Referenser
 
-|     |     |
-|:----|:----|
+
 | **Namn:** | **Ass. Prof. Sven Johansson** |
 | **Position:** | Prefekt, Institutionen för teknik och estetik, DITE, BTH |
 | **Organisation:** | Blekinge Tekniska högskola, Karlskrona, Sweden |
 | **E-mail:** | <a href="mailto:sjo@bth.se">email</a> |
 
-|     |     |
-|:----|:----|
+
 | **Name:** | **Prof. Markus Fiedler** |
 | **Position:** | Forsknings- och huvudområdesansvarig, Institutionen för teknik och estetik, DITE, BTH |
 | **Organization:** | Blekinge Tekniska högskola, Karlskrona, Sweden |
 | **E-mail:** | <a href="mailto:mfi@bth.se">email</a>> |
-|     |     |
+
 
 
 ## 📞 Kontakt
 
-|     |     |
-|:----|:----|
+
 | **Name**   | Mattias Schertell | 
 | **E-mail**   | <a href="mailto:msc@bth.se">arbete</a> | <a href="schertell@gmail.com">privat</a> |
 | **Tfn**   | <a href="tel:+46733344555">0733344555</a> |
 | **LinkedIn**   | <a href="https://www.linkedin.com/in/mattiasschertell/" target="_blank">Visit Page</a> | 
-|     |     |
+
