@@ -91,7 +91,7 @@ def markdown_to_html_with_template(md_content):
     </html>
     """
 
-    html_template = add_images_to_html(html_template)
+    html_template = add_image_to_html(html_template)
     return html_template
 
 def add_image_to_html(html_content, img_names=["1.png", "me.png"]):
