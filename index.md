@@ -21,8 +21,13 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 
 
 ## 🎓 Utbildning
-- **Magisterexamen i Gestaltning i digitala medier**	| <a href="https://www.bth.se/" target="_blank">BTH</a> (_2003 - 2004_)	 			        		
+- **Magisterexamen i Gestaltning i digitala medier**	| <a href="https://www.bth.se/" target="_blank">BTH</a> (_2003 - 2004_)
+  - Examensarbete: Utvecklade delar av ett "Behörighetsadminstriationssystem" (BAS) på Karlskrona kommuns IT-enhet.
+  - .NET, .NET Remoting, COM+, C#, SQL Server.
+                 		
 - **Teknologie kandidatexamen i Medieteknik** | <a href="https://www.bth.se/" target="_blank">BTH</a> (_2000 - 2003_)
+  - Digital ansökan om körkortstillstånd på Stockholms länsstyrelse.
+  - ASP.NET, SQL Server, html/css/javascript.
 
 ## 🔬 Vidareutbildning
 **Medietekniks handledningsprocesser 15hp (_2006_)**
