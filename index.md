@@ -114,7 +114,9 @@ Intressant att få uppleva musikindustrin från insidan. Uppträden i TV-produkt
 
 
 ## 📞 Kontakt
-
+|     |     |
+|:----|:----|
 | **Name**   | Mattias Schertell | 
 | **E-mail**   | <a href="mailto:msc@bth.se">arbete</a> | <a href="schertell@gmail.com">privat</a> |
 | **LinkedIn**   | <a href="https://www.linkedin.com/in/mattiasschertell/" target="_blank">Visit Page</a> | 
+|     |     |
