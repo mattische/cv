@@ -2,7 +2,7 @@
 
 # Mattias Schertell
 
-#### Universitetsajunkt @ [Blekinge Tekniska Högskola](https://www.bth.se/)
+#### Universitetsadjunkt @ [Blekinge Tekniska Högskola](https://www.bth.se/)
 
 
 
