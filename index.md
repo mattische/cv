@@ -46,17 +46,17 @@ Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
 **Medietekniks handledningsprocesser 15hp** (_2006_)
 
 - Motsvarar kursen "Högskolepedagogik".
-- Kursansvarig Lena Trojer.
+- Kursansvarig: professor Lena Trojer.
 
 **Handledning i högre utbildning** (_2014_)
 
 - Kurs för att utveckla sin pedagogiska skicklighet.
-- Kursansvarig Åse Nygren.
+- Kursansvarig: Åse Nygren.
 
 **Klart ledarskap** (_2021_)
 
 - Ledarutvecklingsprogram för att utveckla sina färdigheter i att leda sig själva och andra genom formellt och informellt ledarskap.
-- Ledare Camilla Rüden.
+- Ledare: Camilla Rüden.
 
 ---
 
@@ -66,19 +66,19 @@ Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
 
 -  ✅ **Undervisning** - Jag är både kursansvarig och examinator i flera kurser på DITE. De senaste 3 åren har jag varit delaktig i utvecklingen av en distansutbildningen Design av digital upplevelser för lärande, där jag undervisar i kurser med främst tekniskt innehåll kopplat till webbteknologier och programmering. Jag är också delaktig i kurser på programmen Digitala och immersiva upplevelser, Digital bildproduktion och Digital ljudproduktion.
 Jag har tagit fram, varit kursansvarig och examinator i flera fristående distanskurser (bland annat sommarkurser) med tekniskt innehåll. 
-  
--  ✅ **Biträdande programansvarig** på programmet Digitala upplevelser för lärande.
-  
+    
 -  ✅ **Studierektor** på DITE sedan 2017. I rollen ingår ansvar och arbete med institutionens tjänsteplanering, budget, verksamhetsmål och kursplanering. Jag var med och införde team-baserat arbete på institutionen vilket effektiviserade och förenklade planering och genomförande av kurser.
   
--  ✅ **Studieadministrativt råd** - tillsammans med andra studierektorer, utbildningsstöd, programstöd och studentkåren så är man som medlem i SA-rådet delaktig i spörsmål och beslut som rör centrala studieadminstrativa ärenden.
+-  ✅ **Studieadministrativt råd** - tillsammans med andra studierektorer, utbildningsstöd, programstöd och studentkåren man som medlem delaktig i spörsmål och beslut som rör centrala studieadminstrativa ärenden.
   
--  ✅ **Utbildningsråd (UR)** - lärarrepresentant för fakulteten Datavetenskaper sedan 2021. Som medlem arbetar man med kvalitets- och utvecklingsfrågor rörande BTHs
+-  ✅ **Utbildningsråd (UR)** - lärarrepresentant för fakulteten för Datavetenskaper. Som medlem arbetar man med kvalitets- och utvecklingsfrågor rörande BTHs
 utbildningar på grund- och avancerad nivå och är ett beredande organ till utbildningsutskottet. I rådet behandlas också t ex utbildningsplaner, nyinrättande och nedläggning av program och lokal examensbeskrivning.
   
--  ✅ **IT referensgrupp** - jag är representant för min institution i denna grupp sedan 2016. Gruppens syfte är att informera om och vara rådgörande kring central infrastruktur och mjukvara inom BTH.
+-  ✅ **IT referensgrupp** - representant för min institution i gruppen sedan 2015. Gruppens syfte är att informera om och vara rådgörande kring central infrastruktur och mjukvara inom BTH.
 
--  ✅ **Programansvarig** - inom programmet Medieteknik med inriktning mot interaktiva system ansvarade jag för och utvecklade kurser med innehåll inom front-end- och back-end-utveckling. Detta resulterade i programmet Webbutveckling med start 2009. Jag tog över programmansvaret 2010-2019. Ett namnbyte gjordes 2016 till Interaktion med webbteknologier.
+-  ✅ **Programansvarig** (_2010-2019_) - inom programmet Medieteknik med inriktning mot interaktiva system ansvarade jag för och utvecklade kurser med innehåll inom front-end- och back-end-utveckling. Detta resulterade i programmet Webbutveckling med start 2009 och jag blev programmansvarig året efter. Ett namnbyte gjordes 2016 till Interaktion med webbteknologier.
+
+-  ✅ **Biträdande programansvarig** på programmet Digitala upplevelser för lärande. 
 
 
 
@@ -104,27 +104,29 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
  ✅ **Spider SMS** (_2005-2006_)
  
-- Samarbete mellan BTH, <a href="https://mak.ac.ug/" target="_blank">Makerere University</a> (Kampala, Uganda) och <a href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a> (Manila, Filippinerna).
-- Delvis finansierat av medverkande partners samt SIDA. Projektets mål var att utveckla en applikation för bönder på landsbyggden i Uganda, för att via SMS få information om dagspriser på mejeriprodukter.
-- Min roll i teamet var att ta fram en server-applikation för att lagra och handha priser på mejeriprodukter (API). Tekniker var html/css/javascript, php och MySql. Från BTH var professor Lena Trojer projektledare.
+- Samarbete mellan BTH, <a href="https://mak.ac.ug/" target="_blank">Makerere University</a> (Kampala, Uganda) och <a href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a> (Manila, Filippinerna). Ansvarig från BTH var professor Lena Trojer.
+- Finansierat av medverkande partners samt SIDA. Projektets mål var att utveckla en applikation för bönder på landsbyggden i Uganda vilka via SMS kunde få information om aktuella dagspriser på mejeriprodukter.
+- Min roll i teamet var att ta fram en server-applikation för att lagra och distribuera priser för mejeriprodukter (API).
+- Tekniker: html/css/javascript, php och MySql. 
 
  ✅ **Kombinerad mobilitet - Växla upp!** (_2018-2020_)
  
-- Projekt med det övergripande målet att minska koldioxidutsläppen från persontransporter.
+- Projekt med övergripand mål att minska koldioxidutsläppen från persontransporter.
 - Finansierades av Europeiska regionala utvecklingsfonden (ERUF) där <a href="https://energikontorsyd.se/sv/l/projekt/25476" target="_blank">Energikontor sydost</a> var projektägare.
 - Min medverkan var i ett team från BTH och Netport som utvecklade appen <a href="https://apps.apple.com/se/app/v%C3%A4xla-upp-2/id6443443846?l=en-GB" target="_blank">Växla upp!</a> (iPhone, Android) för att registrera cykelturer.
 - Jag arbetade med att utveckla en server som tog emot, lagrade och analyserade registrerad data under användarnas cykelturer.
-- Teknikerna var node/javascript, MongoDb, git och testramverket Jest.
+- Tekniker: node, MongoDb, git, Jest, Linux.
 
 ✅ **Vodafone, BTH, Högskolan i Dalarna** (_2001_)
   
   - Under studietiden deltog jag i ett projekt som utvecklade en informations-site för ett samarbetsprojekt mellan Vodafone, BTH och Högskolan i Dalarna.
-  - ASP.NET, SQL Server.
+  - Tekniker: ASP.NET, SQL Server.
  
 ✅ **Företagsportal OIT** (_2002_)
 
-  - Utvecklade en webb-baserad företagsportal för företagare i Olofströms kommun. Företag registrerade sig och gjordes sökbara utifrån erbjudna tjänster.
-  - php, MySql.
+  - Utvecklade en webb-baserad företagsportal för företagare i Olofströms kommun. Registrerade företag blev sökbara, utifrån erbjudna 'taggade' tjänster, på en webbsite.
+  - Min roll var utveckling av back-webb och databas.
+  - Tekniker: php, MySql.
 
 ---
 
@@ -141,7 +143,7 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 **Back-end**: 
 
-- node, relationsdatabaser och NoSql (MySql, SQL Server, Mongodb, Redis).
+- node, relationsdatabaser och NoSql (t ex MySql, SQL Server, Mongodb, Redis).
 
   
 💾 **Övrigt:**
