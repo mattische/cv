@@ -40,7 +40,7 @@ Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
   - ASP.NET, C#, SQL Server, Web services.
   
 
-### 🔬 Vidareutbildning
+### 📘 Vidareutbildning
 
 **Medietekniks handledningsprocesser 15hp** (_2006_)
 - Motsvarar kursen "Högskolepedagogik".
@@ -76,12 +76,14 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 -  ✅ **Programansvarig** - inom programmet Medieteknik med inriktning mot interaktiva system ansvarade jag för och utvecklade kurser med innehåll inom front-end- och back-end-utveckling. Detta resulterade i programmet Webbutveckling med start 2009. Jag tog över programmansvaret 2010-2019. Ett namnbyte gjordes 2016 till Interaktion med webbteknologier.
 
-  
- **Back-end utvecklare @ <a href="https://www.managerzone.com/" target="_blank">ManagerZone</a>** (_2007_)
- 
-- Jag blev rekryterad till det Karlskrona-baserade spelföretaget ManagerZone som back-end utvecklare. Under denna tid var jag tjänstledig från BTH.
-- Jag ingick i ett SCRUM-team som utvecklade funktionalitet för KPI (Key Perfomance Indicators); utveckla komponenter för analysera vilka delar av spelet som var (mest) inkomstbringande (ROI).
-- Jag ledde också ett arbete för en migrering från versionshanteringssystemet CVS till SVN.
+
+
+**Back-end utvecklare @ <a href="https://www.managerzone.com/" target="_blank">ManagerZone</a>** (_2007_)
+
+ - 2007 rekryterades jag till ManagerZone (Karlskrona-baserat spelföretag) som back-end utvecklare. Under denna tid var jag tjänstledig från BTH.
+- I det SCRUM-team jag arbetade i, utvecklade jag funktionalitet för KPI (Key Perfomance Indicators); komponenter för analys av de delar i plattformen som var (mest) inkomstbringande (ROI).
+-  Jag ledde också en migrering från versionshanteringssystemet CVS till SVN.
+- Arbetade med Scrum, php, MySql, CVS, SVN, Linux.
 - 2007 blev ManagerZone uppköpt av <a href="https://en.wikipedia.org/wiki/DoubleClick" target="_blank">Doubleclick</a> som i sin tur blev uppköpta av Google året efter.
 
 
