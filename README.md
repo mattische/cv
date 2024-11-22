@@ -91,7 +91,8 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 - Under tre år var jag tjänstledig från BTH och försöjde jag mig som musiker i gruppen The Playtones.
 - Efter medverkan och vinst i TV-programmet <a href="https://sv.wikipedia.org/wiki/Dansbandskampen_2009" target="_blank">Dansbandskampen</a> vintern 2009, blev en hobby ett leverbröd.
-- Intressant att få uppleva musikindustrin från insidan. Uppträden i TV-produktioner såsom Allsång på skansen och Melodifestivalen.
+- Uppträden i TV-produktioner såsom Allsång på skansen och Melodifestivalen.
+- Intressant att få uppleva musikindustrin från insidan. 
 
 ---
 
