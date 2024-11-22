@@ -1,4 +1,4 @@
-|  [mattische.github.io/cv](https://mattische.github.io/cv/)  |  hämta som [pdf](https://github.com/mattische/cv/blob/4eccc26a8d402e388d08c805075bdcb66f839c01/files/MattiasSchertell.pdf)  |
+| web: [mattische.github.io/cv](https://mattische.github.io/cv/)  |  hämta som [pdf](https://github.com/mattische/cv/blob/4eccc26a8d402e388d08c805075bdcb66f839c01/files/MattiasSchertell.pdf)  |
 
 # Mattias Schertell
 
@@ -8,12 +8,16 @@
 
 #### Kortfattat: 
 
-Jag har varit anställd på BTH sedan 2004 och i huvudsak undervisar jag på institutionen för Teknik och estetik (DITE). Jag undervisar ämnen och områden som framförallt är kopplat till webb; front-end och back-end, objektorienterad programmering och agila metoder. Det är dessa ämnen jag är utbildad inom och intresserad av och brinner för.
+```
+Jag har varit anställd på BTH sedan 2004 och i huvudsak undervisar jag på institutionen för Teknik och estetik (DITE).
+Ämnen och områden jag undervisar i, är framförallt är kopplat till webb; front-end och back-end, objektorienterad programmering och agila metoder.
+Det är dessa ämnen jag är utbildad inom och intresserad av och brinner för.
 
-Parallellt med undervisning så är jag studierektor och representant i olika centrala administrativa råd och grupper. Jag har också varit programansvarig och medlem i ett antal olika projekt som utvecklare .
+Parallellt med undervisning så är jag studierektor och representant i olika centrala administrativa råd och grupper.
+Jag har också varit programansvarig och medlem i ett antal olika projekt som utvecklare .
 
-Jag har en magisterexamen i Gestaltning i digitala medier.
-
+Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
+```
 
 
 #### Tekniska färdigheter & kunskaper:
@@ -137,7 +141,14 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 ## 📚 Referenser
 
-
+**Associate Proffessor Sven Johansson**
+> Head of department
+> 
+> Technology and aestethics, DITE
+> 
+> Blekinge Institute of Technology
+> 
+> sjo@bth.se
 
   <table><tr><th>Ass. Prof.<th>Sven Johansson</th></tr>
   <tr><td>Position:</td><td>Head of Department</td></tr>
