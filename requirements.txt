@@ -1,4 +1,3 @@
-re
 markdown2
 python-docx
 fpdf
