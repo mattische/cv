@@ -1,8 +1,12 @@
 # Mattias Schertell
 
-*hämta som [pdf](https://github.com/mattische/cv/blob/4eccc26a8d402e388d08c805075bdcb66f839c01/files/MattiasSchertell.pdf)*
+#### UNIVERSITETSADJUNKT/STUDIEREKTOR - [Blekinge Tekniska Högskola](https://www.bth.se/)
 
-#### _Universitetsadjunkt/Studierektor - [Blekinge Tekniska Högskola](https://www.bth.se/)_ 
+---
+
+|  [mattische.github.io/cv](https://mattische.github.io/cv/)  |  hämta som [pdf](https://github.com/mattische/cv/blob/4eccc26a8d402e388d08c805075bdcb66f839c01/files/MattiasSchertell.pdf)  |
+
+
 
 #### Kortfattat: 
 
