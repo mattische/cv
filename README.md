@@ -8,7 +8,6 @@
 
 #### Kortfattat: 
 
-```
 Jag har varit anställd på BTH sedan 2004 och i huvudsak undervisar jag på institutionen för Teknik och estetik (DITE).
 Ämnen och områden jag undervisar i, är framförallt är kopplat till webb; front-end och back-end, objektorienterad programmering och agila metoder.
 Det är dessa ämnen jag är utbildad inom och intresserad av och brinner för.
@@ -17,7 +16,7 @@ Parallellt med undervisning så är jag studierektor och representant i olika ce
 Jag har också varit programansvarig och medlem i ett antal olika projekt som utvecklare .
 
 Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
-```
+
 
 
 #### Tekniska färdigheter & kunskaper:
