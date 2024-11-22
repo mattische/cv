@@ -58,6 +58,7 @@ Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
 ## 💼 ARBETSLIVSERFARENHET 
 
 **Universitetsajunkt @ <a href="https://www.bth.se/" target="_blank">BTH</a>** (_JUN 2004 - pågående_)
+
 -  ✅ **Undervisning** - Jag är både kursansvarig och examinator i flera kurser på DITE. De senaste 3 åren har jag varit delaktig i utvecklingen av en distansutbildningen Design av digital upplevelser för lärande, där jag undervisar i kurser med främst tekniskt innehåll kopplat till webbteknologier och programmering. Jag är också delaktig i kurser på programmen Digitala och immersiva upplevelser, Digital bildproduktion och Digital ljudproduktion.
 Jag har tagit fram, varit kursansvarig och examinator i flera fristående distanskurser (bland annat sommarkurser) med tekniskt innehåll. 
   
