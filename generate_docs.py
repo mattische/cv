@@ -41,7 +41,9 @@ def html_to_docx(html_content, output_path):
         elif element.name == "h3":
             doc.add_heading(element.text, level=3)
         elif element.name == "strong":
-            doc.add_paragraph(element.text, style="Strong")
+            paragraph = doc.add_paragraph()  # Skapa ett nytt paragrafobjekt
+            run = paragraph.add_run(element.text)
+            run.bold = True  # Ställ in fetstil
         elif element.name == "ul":
             for li in element.find_all("li"):
                 doc.add_paragraph(li.text, style="List Bullet")
@@ -50,6 +52,9 @@ def html_to_docx(html_content, output_path):
                 doc.add_paragraph(li.text, style="List Number")
         elif element.name == "p":
             doc.add_paragraph(element.text)
+
+    doc.save(output_path)
+
 
 # från html till pdf
 def html_to_pdf(html_content, output_path):
@@ -125,12 +130,12 @@ def main():
 
     # Konvertera Markdown till HTML
     html_content = markdown_to_html(md_content)
-    html_path = os.path.join(OUTPUT_DIR, "index.html")
+    html_path = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".html")
     write_file(html_path, html_content)
 
     # Generera DOCX och PDF från HTML
-    docx_path = os.path.join(OUTPUT_DIR, "index.docx")
-    pdf_path = os.path.join(OUTPUT_DIR, "index.pdf")
+    docx_path = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".docx")
+    pdf_path = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".pdf")
     html_to_docx(html_content, docx_path)
     html_to_pdf(html_content, pdf_path)
     
