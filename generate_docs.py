@@ -60,8 +60,8 @@ def markdown_to_html_with_template(md_content):
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Generated Document</title>
-        <!-- Bootstrap CSS -->
+        <title>Mattias Schertell CV</title>
+        <!-- Bootstrap -->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" 
               integrity="sha384-rbsA2VBKQ9AR+I9AYhkfxQjCfSKV9VV2i59lFWEL8BnhE9r5qD65VohKp35uEF5e" 
               crossorigin="anonymous">
@@ -83,7 +83,7 @@ def markdown_to_html_with_template(md_content):
         <div class="container">
             {soup}
         </div>
-        <!-- Bootstrap JS -->
+        <!-- Bootstrap -->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" 
                 integrity="sha384-OERcA2GHZg6UAAETMcFp2xn5p6b9BjNx16bX4R7aB9QdEWw5mCXK5kFnfNIKqM+A" 
                 crossorigin="anonymous"></script>
