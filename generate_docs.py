@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 INDEX_FILE = "index.md"
 README_FILE = "README.md"
 OUTPUT_DIR = "files"
+OUTPUT_PREFIX = "MattiasSchertell""
 
 def create_output_dir():
     if not os.path.exists(OUTPUT_DIR):
@@ -23,7 +24,7 @@ def write_file(filepath, content):
 
 def generate_html(md_content):
     html_content = markdown(md_content)
-    html_file = os.path.join(OUTPUT_DIR, "index.html")
+    html_file = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX.".html")
     write_file(html_file, html_content)
 
 def generate_docx(md_content):
@@ -38,10 +39,16 @@ def generate_docx(md_content):
             doc.add_heading(line[4:], level=3)
         else:
             doc.add_paragraph(line)
-    docx_file = os.path.join(OUTPUT_DIR, "index.docx")
+    docx_file = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX.".docx")
     doc.save(docx_file)
 
+def sanitize_content(content):
+    # Ta bort tecken som inte stöds av "latin-1"
+    return re.sub(r'[^\x00-\xFF]', '', content)
+    
 def generate_pdf(md_content):
+    sanitized_content = sanitize_content(md_content)
+    
     pdf = FPDF()
     pdf.set_auto_page_break(auto=True, margin=15)
     pdf.add_page()
@@ -61,7 +68,7 @@ def generate_pdf(md_content):
         elif element.name == "p":
             pdf.set_font("Arial", size=12)
             pdf.multi_cell(0, 10, txt=element.text)
-    pdf_file = os.path.join(OUTPUT_DIR, "index.pdf")
+    pdf_file = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX.".pdf")
     pdf.output(pdf_file)
 
 def update_readme(md_content):
