@@ -128,30 +128,30 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 
 <table>
-  <tr><th>Markus</th></tr>
-  <tr><td>jadflkdjf</td></tr>
+  <tr><th>Ass. Prof.<th>Sven Johansson</th></tr>
+  <tr><td>Position:</td><td>Head of Department</td></tr>
+  <tr><td>Organization:</td><td>Blekinge Institute of Technology, Sweden</td></tr>
+  <tr><td>Email:</td><td><a href="mailto:sjo@bth.se"</td></tr>
+  <tr><td>Phone:</td><td><a href="tel:+46455385710">+46455 38 57 10</a><a href="tel:+46708878708">+4670 887 87 08</a></td></tr>
 </table>
 
-| **Namn:** | **Ass. Prof. Sven Johansson** |
-|-----------|-------------------------------|
-| **Position:** | Prefekt, Institutionen för teknik och estetik, DITE, BTH |
-| **Organisation:** | Blekinge Tekniska högskola, Karlskrona, Sweden |
-| **E-mail:** | <a href="mailto:sjo@bth.se">email</a> |
+<table>
+  <tr><th>Prof.<th>Markus Fiedler</th></tr>
+  <tr><td>Position:</td><td>Forsknings- och huvudområdesansavarig Medieteknik</td></tr>
+  <tr><td>Organization:</td><td>Blekinge Institute of Technology, Sweden</td></tr>
+  <tr><td>Email:</td><td><a href="mailto:mfi@bth.se"</td></tr>
+</table>
 
-
-| **Name:** | **Prof. Markus Fiedler** |
-|-----------|-------------------------------|
-| **Position:** | Forsknings- och huvudområdesansvarig, Institutionen för teknik och estetik, DITE, BTH |
-| **Organization:** | Blekinge Tekniska högskola, Karlskrona, Sweden |
-| **E-mail:** | <a href="mailto:mfi@bth.se">email</a>> |
 
 
 
 ## 📞 Kontakt
 
-| **Namn:**   | Mattias Schertell | 
-|-----------|-------------------------------|
-| **E-mail:**   | <a href="mailto:msc@bth.se">arbete</a> | <a href="schertell@gmail.com">privat</a> |
-| **Tfn:**   | <a href="tel:+46733344555">0733344555</a> |
-| **LinkedIn:**   | <a href="https://www.linkedin.com/in/mattiasschertell/" target="_blank">Visit Page</a> | 
+<table>
+  <tr><th>Me:</th><th>Mattias Schertell</th></tr>
+  <tr><td>Email:</td><td><a href="mailto:msc@bth.se">work</a>, <a href="mailto:schertell@gmail.com">private</a></td></tr>
+  <tr><td>Phone:</td><td><a href="tel:+46733344555">+46733 34 45 55</td></tr>
+  <tr><td>LinkedIn:</td><td><a href="https://www.linkedin.com/in/mattiasschertell/" target="_blank">Visit Page</a></td></tr>
+</table>
+
 
