@@ -155,7 +155,14 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 - Erfarenhet av tex A-Frame, Docker, nginx, caddy och Apache Kafka.
 - Raspberry Pi, Arduino.
 
+<br>
+
 ---    
+
+<br>
+<br>
+<br>
+<br>
 
 ## 📚 Referenser
 
