@@ -23,11 +23,12 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 ## 🎓 Utbildning
 - **Magister i Gestaltning i digitala medier**	| <a href="https://www.bth.se/" target="_blank">BTH</a> (_2003 - 2004_)
   - Examensarbete: Utvecklade ett "Behörighetsadminstriationssystem" (BAS) på Karlskrona kommuns IT-enhet.
-  - .NET, .NET Remoting, COM+, C#, SQL Server.
+  - .NET Remoting, C#, SQL Server.
                  		
 - **Teknologie kandidat i Medieteknik** | <a href="https://www.bth.se/" target="_blank">BTH</a> (_2000 - 2003_)
-  - Examensarbete: Digital ansökan om körkortstillstånd på Stockholms länsstyrelse.
-  - ASP.NET, SQL Server, html/css/javascript.
+  - Examensarbete: Digital ansökan på webben för körkortstillstånd på Stockholms länsstyrelse.
+  - ASP.NET, C#, SQL Server, Web services.
+  
 
 ## 🔬 Vidareutbildning
 **Medietekniks handledningsprocesser 15hp (_2006_)**
@@ -59,8 +60,8 @@ Jag har tagit fram, varit kursansvarig och examinator i flera fristående distan
   
 -  ✅ **IT referensgrupp** jag är representant för min institution i denna grupp sedan 2016. Gruppens syfte är att informera om och vara rådgörande kring central infrastruktur och mjukvara inom BTH.
 
--  ✅ **Programansvarig** - inom programmet Medieteknik med inriktning mot iteraktiva system ansvarade jag för och utvecklade kurser med innehåll inom front-end- och back-end-utveckling. Detta resulterade i programmet Webbutveckling som gjorde startade 2009. Jag tog över programmansvaret 2010-2018. Programmet gjorde ett namnbyte till Interaktion med webbteknologier, där jag var programansvarig 2016-2019.
-
+-  ✅ **Programansvarig** - inom programmet Medieteknik med inriktning mot interaktiva system ansvarade jag för och utvecklade kurser med innehåll inom front-end- och back-end-utveckling. Detta resulterade i programmet Webbutveckling med start 2009. Jag tog över programmansvaret 2010-2019. Ett namnbyte gjordes 2016 till Interaktion med webbteknologier.
+  
  💻 **Back-end utvecklare @ <a href="https://www.managerzone.com/" target="_blank">ManagerZone</a> (_2007_)**
 - Jag blev rekryterad till det Karlskrona-baserade spelföretaget ManagerZone som back-end utvecklare. Under denna tid var jag tjänstledig från BTH.
 - Jag ingick i ett SCRUM-team som utvecklade funktionalitet för KPI (Key Perfomance Indicators); utveckla komponenter för analysera vilka delar av spelet som var (mest) inkomstbringande (ROI).
@@ -80,6 +81,14 @@ Intressant att få uppleva musikindustrin från insidan. Uppträden i TV-produkt
  ✅ **Kombinerad mobilitet - Växla upp! (_2018-2020_)**
 - Projekt med det övergripande målet att minska koldioxidutsläppen från persontransporter. Finansierades av Europeiska regionala utvecklingsfonden (ERUF) där <a href="https://energikontorsyd.se/sv/l/projekt/25476" target="_blank">Energikontor sydost</a> var projektägare.
 - Min medverkan var i ett team från BTH och Netport som utvecklade appen <a href="https://apps.apple.com/se/app/v%C3%A4xla-upp-2/id6443443846?l=en-GB" target="_blank">Växla upp!</a> (iPhone, Android) för att registrera cykelturer. Jag arbetade med att utveckla servern mottog, lagrade och analyserade registrerad data under användarnas cykelturer. Teknikerna var node/javascript, MongoDb, git och testramverket Jest.
+
+- **Vodafone, BTH, Högskolan i Dalarna** (_2001_)
+  - Under studietiden deltog jag i ett projekt som utvecklade en informations-site för ett samarbetsprojekt mellan Vodafone, BTH och Högskolan i Dalarna.
+  - ASP.NET, SQL Server.
+ 
+- **Företagsportal OIT** (_2002_)
+  - Utvecklade en webb-baserad företagsportal för företagare i Olofströms kommun. Företag registrerade sig och gjordes sökbara utifrån erbjudna tjänster.
+  - php, MySql.
 
 ---
 
