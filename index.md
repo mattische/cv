@@ -141,13 +141,7 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 ## 📚 Referenser
 
 **Associate Proffessor Sven Johansson**
-> Head of department
-> 
-> Technology and aestethics, DITE
-> 
-> Blekinge Institute of Technology
-> 
-> sjo@bth.se
+
 
   <table><tr><th>Ass. Prof.<th>Sven Johansson</th></tr>
   <tr><td>Position:</td><td>Head of Department</td></tr>
