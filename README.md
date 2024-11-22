@@ -168,7 +168,9 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
   <tr><td>Tel 1:</td><td><a href="tel:+46455385710">+46455 38 57 10</a></td></tr>
   <tr><td>Tel 2:</td><td><a href="tel:+46708878708">+4670 887 87 08</a></td></tr></table>
 
-<br><br>
+<br>
+
+<br>
 
   <table><tr><th>Prof.</th><th>Markus Fiedler</th></tr>
   <tr><td>Position:</td><td>Forsknings- och huvudområdesansvarig, DITE</td></tr>
