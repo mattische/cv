@@ -54,7 +54,7 @@ def generate_pdf(md_content):
     pdf.set_auto_page_break(auto=True, margin=15)
     pdf.add_page()
     # Lägg till en Unicode-kompatibel font
-    font_path = os.path.join(os.path.dirname(__file__), "fonts/DejaVuSans.ttf")
+    font_path = os.path.join(os.path.dirname(__file__), "fonts")
     pdf.add_font("DejaVu", "", font_path, uni=True)
     pdf.add_font("DejaVu", "B", os.path.join(font_path, "DejaVuSans-Bold.ttf"), uni=True)  # Bold
     pdf.add_font("DejaVu", "I", os.path.join(font_path, "DejaVuSans-Oblique.ttf"), uni=True)  # Italic
