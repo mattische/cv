@@ -58,7 +58,7 @@ Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
 
 ## 💼 ARBETSLIVSERFARENHET 
 
-**Universitetsajunkt @ <a href="https://www.bth.se/" target="_blank">BTH</a>** (_JUN 2004 - pågående_)
+### Universitetsajunkt @ <a href="https://www.bth.se/" target="_blank">BTH</a> (_JUN 2004 - pågående_)
 
 -  ✅ **Undervisning** - Jag är både kursansvarig och examinator i flera kurser på DITE. De senaste 3 åren har jag varit delaktig i utvecklingen av en distansutbildningen Design av digital upplevelser för lärande, där jag undervisar i kurser med främst tekniskt innehåll kopplat till webbteknologier och programmering. Jag är också delaktig i kurser på programmen Digitala och immersiva upplevelser, Digital bildproduktion och Digital ljudproduktion.
 Jag har tagit fram, varit kursansvarig och examinator i flera fristående distanskurser (bland annat sommarkurser) med tekniskt innehåll. 
@@ -78,7 +78,7 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 
 
-**Back-end utvecklare @ <a href="https://www.managerzone.com/" target="_blank">ManagerZone</a>** (_2007_)
+### 💻 Back-end utvecklare @ <a href="https://www.managerzone.com/" target="_blank">ManagerZone</a> (_2007_)
 
  - 2007 rekryterades jag till ManagerZone (Karlskrona-baserat spelföretag) som back-end utvecklare. Under denna tid var jag tjänstledig från BTH.
 - I det SCRUM-team jag arbetade i, utvecklade jag funktionalitet för KPI (Key Perfomance Indicators); komponenter för analys av de delar i plattformen som var (mest) inkomstbringande (ROI).
@@ -87,7 +87,7 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 - 2007 blev ManagerZone uppköpt av <a href="https://en.wikipedia.org/wiki/DoubleClick" target="_blank">Doubleclick</a> som i sin tur blev uppköpta av Google året efter.
 
 
-**Musiker @ <a href="https://sv-se.facebook.com/playtones/" target="_blank">Playtones</a>** (_2010 - 2013_)
+### 🎼 Musiker @ <a href="https://sv-se.facebook.com/playtones/" target="_blank">Playtones</a> (_2010 - 2013_)
 
 - Under tre år var jag tjänstledig från BTH och försöjde jag mig som musiker i gruppen The Playtones.
 - Efter medverkan och vinst i TV-programmet <a href="https://sv.wikipedia.org/wiki/Dansbandskampen_2009" target="_blank">Dansbandskampen</a> vintern 2009, blev en hobby ett leverbröd.
