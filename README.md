@@ -25,7 +25,7 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 ---
 
 
-## 🎓 Utbildning
+## 🎓 UTBILDNING
 
 - **Magister i Gestaltning i digitala medier**	| <a href="https://www.bth.se/" target="_blank">BTH</a> (_2003 - 2004_)
   - Examensarbete: Utvecklade ett "Behörighetsadminstriationssystem" (BAS) på Karlskrona kommuns IT-enhet.
@@ -36,7 +36,7 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
   - ASP.NET, C#, SQL Server, Web services.
   
 
-## 🔬 Vidareutbildning
+## 🔬 VIDAREUTBILDNING
 
 **Medietekniks handledningsprocesser 15hp** (_2006_)
 - Motsvarar kursen "Högskolepedagogik".
@@ -52,7 +52,7 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 
 ---
 
-## 💼 Arbetslivserfarenhet 
+## 💼 ARBETSLIVSERFARENHET 
 
 **Universitetsajunkt @ <a href="https://www.bth.se/" target="_blank">BTH</a>** (_JUN 2004 - pågående_)
 -  ✅ **Undervisning** - Jag är både kursansvarig och examinator i flera kurser på DITE. De senaste 3 åren har jag varit delaktig i utvecklingen av en distansutbildningen Design av digital upplevelser för lärande, där jag undervisar i kurser med främst tekniskt innehåll kopplat till webbteknologier och programmering. Jag är också delaktig i kurser på programmen Digitala och immersiva upplevelser, Digital bildproduktion och Digital ljudproduktion.
@@ -84,7 +84,8 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 ---
 
-## 🌎 Projekt
+## 🌎 PROJEKT
+
  ✅ **Spider SMS** (_2005-2006_)
 - Samarbete mellan BTH, <a href="https://mak.ac.ug/" target="_blank">Makerere University</a> (Kampala, Uganda) och <a href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a> (Manila, Filippinerna).
 - Delvis finansierat av medverkande partners samt SIDA. Projektets mål var att utveckla en applikation för bönder på landsbyggden i Uganda, för att via SMS få information om dagspriser på mejeriprodukter.
@@ -106,12 +107,22 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 ---
 
-## 💻 Färdigheter inom "programmering" och "webb"
-- **Språk**: python, javascript, Java, php. Erfarenhet av: C, C++, C#, Go, bash.
-- **Front-end**: html, css, javascript. Erfarenhet av diverse ramverk såsom Bootstrap, Tailwind och Vue.
-- **Back-end**: node, relationsdatabaser och NoSql (MySql, SQL Server, Mongodb, Redis).
+## 💻 TEKNISKA FÄRDIGHETER
 
 
+**Språk**:
+
+   - python, javascript, Java, php. Erfarenhet av: C, C++, C#, Go, bash.
+     
+**Front-end**: 
+
+- html, css, javascript. Erfarenhet av diverse ramverk såsom Bootstrap, Tailwind och Vue.
+
+**Back-end**: 
+
+- node, relationsdatabaser och NoSql (MySql, SQL Server, Mongodb, Redis).
+
+  
 💾 **Övrigt:**
   
 - Git/GitHub.
