@@ -1,4 +1,4 @@
-| web: [mattische.github.io/cv](https://mattische.github.io/cv/)  |  hämta som [pdf](https://github.com/mattische/cv/blob/4eccc26a8d402e388d08c805075bdcb66f839c01/files/MattiasSchertell.pdf)  |
+| web: [mattische.github.io/cv](https://mattische.github.io/cv/)  |  hämta som [pdf](https://github.com/mattische/cv/blob/main/files/MattiasSchertell.pdf)  |
 
 # Mattias Schertell
 
@@ -180,5 +180,5 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
   <tr><td>Tel:</td><td><a href="tel:+46733344555">+46733 34 45 55</a></td></tr>
   <tr><td>LinkedIn:</td><td><a href="https://www.linkedin.com/in/mattiasschertell/" target="_blank">besök min profil</a></td></tr></table>
 
-
-| web: [mattische.github.io/cv](https://mattische.github.io/cv/)  |  hämta som [pdf]
+---
+| web: [mattische.github.io/cv](https://mattische.github.io/cv/)  |  hämta som [pdf](https://github.com/mattische/cv/blob/main/files/MattiasSchertell.pdf)  |
