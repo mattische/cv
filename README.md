@@ -4,7 +4,7 @@
 
 #### Universitetsadjunkt @ [Blekinge Tekniska Högskola](https://www.bth.se/)
 
-<br>
+
 
 #### Kortfattat: 
 
@@ -148,20 +148,14 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
   
 - Git/GitHub.
 - Linux: command line, erfarenhet av diverse OS.
-- Design patterns & arkitektur .
-- Agila metoder (Scrum, Kanban etc).
+- Agila metoder (Scrum, Kanban etc), design patterns & arkitektur.
 - Testning (med tex Jest).
 - Erfarenhet av tex A-Frame, Docker, nginx, caddy och Apache Kafka.
 - Raspberry Pi, Arduino.
 
-<br>
 
 ---    
 
-<br>
-<br>
-<br>
-<br>
 
 ## 📚 Referenser
 
