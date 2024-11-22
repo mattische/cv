@@ -4,7 +4,8 @@
 
 #### Universitetsadjunkt @ [Blekinge Tekniska Högskola](https://www.bth.se/)
 
----
+<br>
+<br>
 
 #### Kortfattat: 
 
@@ -159,7 +160,7 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
   <table><tr><th>Me:</th><th>Mattias Schertell</th></tr>
   <tr><td>Work email:</td><td><a href="mailto:msc@bth.se">work</a></td></tr>
   <tr><td>Private email:</td><td><a href="mailto:schertell@gmail.com">private</a></td></tr>
-  <tr><td>Phone:</td><td><a href="tel:+46733344555">+46733 34 45 55</td></tr>
+  <tr><td>Phone:</td><td><a href="tel:+46733344555">+46733 34 45 55</a></td></tr>
   <tr><td>LinkedIn:</td><td><a href="https://www.linkedin.com/in/mattiasschertell/" target="_blank">Visit Page</a></td></tr></table>
 
 
