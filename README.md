@@ -75,14 +75,18 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 -  ✅ **IT referensgrupp** jag är representant för min institution i denna grupp sedan 2016. Gruppens syfte är att informera om och vara rådgörande kring central infrastruktur och mjukvara inom BTH.
 
 -  ✅ **Programansvarig** - inom programmet Medieteknik med inriktning mot interaktiva system ansvarade jag för och utvecklade kurser med innehåll inom front-end- och back-end-utveckling. Detta resulterade i programmet Webbutveckling med start 2009. Jag tog över programmansvaret 2010-2019. Ett namnbyte gjordes 2016 till Interaktion med webbteknologier.
+
   
- 💻 **Back-end utvecklare @ <a href="https://www.managerzone.com/" target="_blank">ManagerZone</a>** (_2007_)
+ **Back-end utvecklare @ <a href="https://www.managerzone.com/" target="_blank">ManagerZone</a>** (_2007_)
+ 
 - Jag blev rekryterad till det Karlskrona-baserade spelföretaget ManagerZone som back-end utvecklare. Under denna tid var jag tjänstledig från BTH.
 - Jag ingick i ett SCRUM-team som utvecklade funktionalitet för KPI (Key Perfomance Indicators); utveckla komponenter för analysera vilka delar av spelet som var (mest) inkomstbringande (ROI).
 - Jag ledde också ett arbete för en migrering från versionshanteringssystemet CVS till SVN.
 - 2007 blev ManagerZone uppköpt av <a href="https://en.wikipedia.org/wiki/DoubleClick" target="_blank">Doubleclick</a> som i sin tur blev uppköpta av Google året efter.
 
-🎼 **Musiker @ <a href="https://sv-se.facebook.com/playtones/" target="_blank">Playtones</a>** (_2010 - 2013_)
+
+**Musiker @ <a href="https://sv-se.facebook.com/playtones/" target="_blank">Playtones</a>** (_2010 - 2013_)
+
 - Under tre år var jag tjänstledig från BTH och försöjde jag mig som musiker i gruppen The Playtones.
 - Efter medverkan och vinst i TV-programmet <a href="https://sv.wikipedia.org/wiki/Dansbandskampen_2009" target="_blank">Dansbandskampen</a> vintern 2009, blev en hobby ett leverbröd.
 - Intressant att få uppleva musikindustrin från insidan. Uppträden i TV-produktioner såsom Allsång på skansen och Melodifestivalen.
@@ -92,21 +96,25 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 ## 🌎 PROJEKT
 
  ✅ **Spider SMS** (_2005-2006_)
+ 
 - Samarbete mellan BTH, <a href="https://mak.ac.ug/" target="_blank">Makerere University</a> (Kampala, Uganda) och <a href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a> (Manila, Filippinerna).
 - Delvis finansierat av medverkande partners samt SIDA. Projektets mål var att utveckla en applikation för bönder på landsbyggden i Uganda, för att via SMS få information om dagspriser på mejeriprodukter.
 - Min roll i teamet var att ta fram en server-applikation för att lagra och handha priser på mejeriprodukter (API). Tekniker var html/css/javascript, php och MySql. Från BTH var professor Lena Trojer projektledare.
 
  ✅ **Kombinerad mobilitet - Växla upp!** (_2018-2020_)
+ 
 - Projekt med det övergripande målet att minska koldioxidutsläppen från persontransporter.
 - Finansierades av Europeiska regionala utvecklingsfonden (ERUF) där <a href="https://energikontorsyd.se/sv/l/projekt/25476" target="_blank">Energikontor sydost</a> var projektägare.
 - Min medverkan var i ett team från BTH och Netport som utvecklade appen <a href="https://apps.apple.com/se/app/v%C3%A4xla-upp-2/id6443443846?l=en-GB" target="_blank">Växla upp!</a> (iPhone, Android) för att registrera cykelturer.
 - Jag arbetade med att utveckla servern mottog, lagrade och analyserade registrerad data under användarnas cykelturer. Teknikerna var node/javascript, MongoDb, git och testramverket Jest.
 
-- **Vodafone, BTH, Högskolan i Dalarna** (_2001_)
+✅ **Vodafone, BTH, Högskolan i Dalarna** (_2001_)
+  
   - Under studietiden deltog jag i ett projekt som utvecklade en informations-site för ett samarbetsprojekt mellan Vodafone, BTH och Högskolan i Dalarna.
   - ASP.NET, SQL Server.
  
-- **Företagsportal OIT** (_2002_)
+✅ **Företagsportal OIT** (_2002_)
+
   - Utvecklade en webb-baserad företagsportal för företagare i Olofströms kommun. Företag registrerade sig och gjordes sökbara utifrån erbjudna tjänster.
   - php, MySql.
 
