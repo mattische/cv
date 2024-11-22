@@ -25,7 +25,7 @@ def write_file(filepath, content):
 
 def generate_html(md_content):
     html_content = markdown(md_content)
-    html_file = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX.".html")
+    html_file = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".html")
     write_file(html_file, html_content)
 
 def generate_docx(md_content):
@@ -40,7 +40,7 @@ def generate_docx(md_content):
             doc.add_heading(line[4:], level=3)
         else:
             doc.add_paragraph(line)
-    docx_file = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX.".docx")
+    docx_file = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".docx")
     doc.save(docx_file)
 
 def sanitize_content(content):
@@ -69,7 +69,7 @@ def generate_pdf(md_content):
         elif element.name == "p":
             pdf.set_font("Arial", size=12)
             pdf.multi_cell(0, 10, txt=element.text)
-    pdf_file = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX.".pdf")
+    pdf_file = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".pdf")
     pdf.output(pdf_file)
 
 def update_readme(md_content):
