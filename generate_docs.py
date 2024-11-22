@@ -46,7 +46,14 @@ def markdown_to_html_with_template(md_content):
     # Konvertera Markdown till HTML
     body_content = markdown(md_content)
 
-    # Komplett HTML-struktur
+    soup = BeautifulSoup(body_content, "html.parser")
+
+    # tabeller
+    for table in soup.find_all("table"):
+        table["class"] = "table table-striped table-bordered"
+        table["style"] = "margin-top: 1rem; width: 100%;"
+    
+    
     html_template = f"""
     <!DOCTYPE html>
     <html lang="en">
@@ -74,7 +81,7 @@ def markdown_to_html_with_template(md_content):
     </head>
     <body>
         <div class="container">
-            {body_content}
+            {soup}
         </div>
         <!-- Bootstrap JS -->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" 
@@ -99,7 +106,7 @@ def html_to_docx(html_content, output_path):
         elif element.name == "h3":
             doc.add_heading(element.text, level=3)
         elif element.name == "strong":
-            paragraph = doc.add_paragraph()  # Skapa ett nytt paragrafobjekt
+            paragraph = doc.add_paragraph()  
             run = paragraph.add_run(element.text)
             run.bold = True  # Ställ in fetstil
         elif element.name == "ul":
@@ -108,6 +115,13 @@ def html_to_docx(html_content, output_path):
         elif element.name == "ol":
             for li in element.find_all("li"):
                 doc.add_paragraph(li.text, style="List Number")
+        elif element.name == "table":
+            rows = element.find_all("tr")
+            if rows:
+                table = doc.add_table(rows=len(rows), cols=len(rows[0].find_all(["td", "th"])))
+                for i, row in enumerate(rows):
+                    for j, cell in enumerate(row.find_all(["td", "th"])):
+                        table.rows[i].cells[j].text = cell.get_text(strip=True)
         elif element.name == "p":
             doc.add_paragraph(element.text)
 
@@ -132,14 +146,12 @@ def main():
 
     md_content = read_markdown_file(INDEX_FILE)
 
-
-    # Konvertera Markdown till HTML
-    #html_content = markdown_to_html(md_content)
+    # md till html
     html_content = markdown_to_html_with_template(md_content)
     html_path = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".html")
     write_file(html_path, html_content)
 
-    # Generera DOCX och PDF från HTML
+    # docx, pdf från html
     docx_path = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".docx")
     pdf_path = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".pdf")
     html_to_docx(html_content, docx_path)
