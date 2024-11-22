@@ -90,8 +90,44 @@ def markdown_to_html_with_template(md_content):
     </body>
     </html>
     """
+
+    html_template = add_images_to_html(html_template)
     return html_template
 
+def add_image_to_html(html_content, img_names=["1.png", "me.png"]):
+    """
+    Lägger till en bild under den första rubriken i soppan om en av de angivna bilderna finns.
+
+    Args:
+        html_content (str): html som ska modifieras.
+        img_names (list): lista över bildfilsnamn att leta efter.
+
+    Returns:
+        str: modifierad soppa
+    """
+    # Kontrollera om någon av de angivna bildfilerna existerar
+    img_path = None
+    for img_name in img_names:
+        if os.path.exists(img_name):
+            img_path = img_name
+            break
+
+    if not img_path:
+        # Om ingen bild finns, returnera oförändrad HTML
+        return html_content
+
+    # Använd BeautifulSoup för att manipulera HTML-strukturen
+    soup = BeautifulSoup(html_content, "html.parser")
+
+    # Hitta första rubriken (h1, h2, etc.)
+    first_heading = soup.find(["h1", "h2", "h3"])
+    if first_heading:
+        # Skapa en img-tagg för bilden
+        img_tag = soup.new_tag("img", src=img_path, alt="Profile Image", style="max-width: 200px; margin-top: 1rem;")
+        # Lägg till img-tagen direkt efter första rubriken
+        first_heading.insert_after(img_tag)
+
+    return str(soup)
 
 # från html till docx
 def html_to_docx(html_content, output_path):
