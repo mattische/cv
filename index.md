@@ -109,7 +109,8 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 - Projekt med det övergripande målet att minska koldioxidutsläppen från persontransporter.
 - Finansierades av Europeiska regionala utvecklingsfonden (ERUF) där <a href="https://energikontorsyd.se/sv/l/projekt/25476" target="_blank">Energikontor sydost</a> var projektägare.
 - Min medverkan var i ett team från BTH och Netport som utvecklade appen <a href="https://apps.apple.com/se/app/v%C3%A4xla-upp-2/id6443443846?l=en-GB" target="_blank">Växla upp!</a> (iPhone, Android) för att registrera cykelturer.
-- Jag arbetade med att utveckla servern mottog, lagrade och analyserade registrerad data under användarnas cykelturer. Teknikerna var node/javascript, MongoDb, git och testramverket Jest.
+- Jag arbetade med att utveckla en server som tog emot, lagrade och analyserade registrerad data under användarnas cykelturer.
+- Teknikerna var node/javascript, MongoDb, git och testramverket Jest.
 
 ✅ **Vodafone, BTH, Högskolan i Dalarna** (_2001_)
   
