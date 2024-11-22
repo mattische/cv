@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 INDEX_FILE = "index.md"
 README_FILE = "README.md"
 OUTPUT_DIR = "files"
-OUTPUT_PREFIX = "MattiasSchertell""
+OUTPUT_PREFIX = "MattiasSchertell"
 
 def create_output_dir():
     if not os.path.exists(OUTPUT_DIR):
