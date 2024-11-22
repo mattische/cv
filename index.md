@@ -3,7 +3,7 @@
 #### _Universitetsadjunkt/Studierektor - [Blekinge Tekniska Högskola](https://www.bth.se/)_ 
 
 #### Kortfattat: 
-Jag har varit anställd på BTH sedan 2004 och i huvudsak undervisat inom medieteknik och datavatenskapliga ämnen, framförallt kopplat till webb; front-end och back-end, objektorienterad programmering och agila metoder. Det är dessa ämnen jag intresserad av och brinner för.
+Jag har varit anställd på BTH sedan 2004 och i huvudsak undervisat på institutionen för Teknik och estetik (DITE), framförallt kopplat till webb; front-end och back-end, objektorienterad programmering och agila metoder. Det är dessa ämnen jag intresserad av och brinner för.
 
 Parallellt med undervisning så är jag studierektor och representant i olika centrala administrativa råd och grupper. Jag har också varit programansvarig och medlem i ett antal olika projekt som utvecklare .
 
@@ -90,7 +90,8 @@ Intressant att få uppleva musikindustrin från insidan. Uppträden i TV-produkt
 - Design patterns & arkitektur .
 - Agila metoder (Scrum, Kanban etc).
 - Testning (med tex Jest).
-- Erfarenhet av tex Docker, nginx, caddy och Apache Kafka.
+- Erfarenhet av tex A-Frame, Docker, nginx, caddy och Apache Kafka.
+- Raspberry Pi, Arduino.
 
 ---    
 
