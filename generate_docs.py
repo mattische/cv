@@ -61,16 +61,16 @@ def generate_pdf(md_content):
     soup = BeautifulSoup(markdown(md_content), "html.parser")
     for element in soup.descendants:
         if element.name == "h1":
-            pdf.set_font("Arial", style="B", size=16)
+            pdf.set_font("DejaVu", style="B", size=16)
             pdf.cell(200, 10, txt=element.text, ln=True, align="C")
         elif element.name == "h2":
-            pdf.set_font("Arial", style="B", size=14)
+            pdf.set_font("DejaVu", style="B", size=14)
             pdf.cell(200, 10, txt=element.text, ln=True, align="L")
         elif element.name == "h3":
-            pdf.set_font("Arial", style="B", size=12)
+            pdf.set_font("DejaVu", style="B", size=12)
             pdf.cell(200, 10, txt=element.text, ln=True, align="L")
         elif element.name == "p":
-            pdf.set_font("Arial", size=12)
+            pdf.set_font("DejaVu", size=12)
             pdf.multi_cell(0, 10, txt=element.text)
     pdf_file = os.path.join(OUTPUT_DIR, OUTPUT_PREFIX + ".pdf")
     pdf.output(pdf_file)
