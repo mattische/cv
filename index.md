@@ -138,35 +138,35 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 ## 📚 Referenser
 
 
-<table>
+
   <tr><th>Ass. Prof.<th>Sven Johansson</th></tr>
   <tr><td>Position:</td><td>Head of Department</td></tr>
   <tr><td>Organization:</td><td>Blekinge Institute of Technology, Sweden</td></tr>
   <tr><td>Email:</td><td><a href="mailto:sjo@bth.se">work email</a></td></tr>
   <tr><td>Phone 1:</td><td><a href="tel:+46455385710">+46455 38 57 10</a></td></tr>
   <tr><td>Phone 2:</td><td><a href="tel:+46708878708">+4670 887 87 08</a></td></tr>
-</table>
 
-<table>
+
+
   <tr><th>Prof.<th>Markus Fiedler</th></tr>
   <tr><td>Position:</td><td>Forsknings- och huvudområdesansavarig Medieteknik</td></tr>
   <tr><td>Organization:</td><td>Blekinge Institute of Technology, Sweden</td></tr>
   <tr><td>Email:</td><td><a href="mailto:mfi@bth.se">work email</a></td></tr>
   <tr><td>Phone 1:</td><td><a href="tel:+46455385923">+46455 38 59 23</a></td></tr>
   <tr><td>Phone 2:</td><td><a href="tel:+46708537339">+4670 853 73 39</a></td></tr>
-</table>
+
 
 
 
 
 ## 📞 Kontakt
 
-<table>
+
   <tr><th>Me:</th><th>Mattias Schertell</th></tr>
   <tr><td>Work email:</td><td><a href="mailto:msc@bth.se">work</a></td></tr>
   <tr><td>Private email:</td><td><a href="mailto:schertell@gmail.com">private</a></td></tr>
   <tr><td>Phone:</td><td><a href="tel:+46733344555">+46733 34 45 55</td></tr>
   <tr><td>LinkedIn:</td><td><a href="https://www.linkedin.com/in/mattiasschertell/" target="_blank">Visit Page</a></td></tr>
-</table>
+
 
 
