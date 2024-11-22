@@ -4,7 +4,8 @@
 
 #### Universitetsadjunkt @ [Blekinge Tekniska Högskola](https://www.bth.se/)
 
----
+<br>
+<br>
 
 #### Kortfattat: 
 
