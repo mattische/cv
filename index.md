@@ -41,7 +41,7 @@ Jag har en magisterexamen i Gestaltning i digitala medier.
 ## 💼 Arbetslivserfarenhet 
 **Universitetsajunkt @ <a href="https://www.bth.se/" target="_blank">BTH</a> (_JUN 2004 - pågående_)**
 -  ✅ **Undervisning** - Jag är både kursansvarig och examinator i flera kurser på DITE. De senaste 3 åren har jag varit delaktig i utvecklingen av en distansutbildningen Design av digital upplevelser för lärande, där jag undervisar i kurser med främst tekniskt innehåll såsom programmering och webbproduktion. Jag är också delaktig i kurser på programmen Digitala och immersiva upplevelser, Digital bildproduktion och Digital ljudproduktion.
-Jag har tagit fram, varit kursansvarig och examinator i flerta fristående distanskurser (bland annat sommarkurser). 
+Jag har tagit fram, varit kursansvarig och examinator i flera fristående distanskurser (bland annat sommarkurser) med tekniskt innehåll. 
   
 -  ✅ **Biträdande programansvarig** på programmet Digitala upplevelser för lärande.
   
