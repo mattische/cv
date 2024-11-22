@@ -52,11 +52,12 @@ Jag har tagit fram, varit kursansvarig och examinator i flera fristående distan
   
 -  ✅ **Biträdande programansvarig** på programmet Digitala upplevelser för lärande.
   
--  ✅ **Studierektor** på DITE sedan 2017. Inkluderar arbete och ansvar för institutionens tjänsteplanering, budget, verksamhetsmål och kursplanering. Införde team-baserat arbete vilket effektiviserade och förenklade planering och genomförande av kurser.
+-  ✅ **Studierektor** på DITE sedan 2017. I rollen ingår ansvar och arbete med institutionens tjänsteplanering, budget, verksamhetsmål och kursplanering. Jag var med och införde team-baserat arbete på institutionen vilket effektiviserade och förenklade planering och genomförande av kurser.
   
--  ✅ **Studieadministrativt råd** - jag är medlem i SA-rådet. Tillsammans med andra studierektorer, utbildningsstöd, programstöd och studentkåren är man delaktig i spörsmål och beslut som rör centrala studieadminstrativa ärenden.
+-  ✅ **Studieadministrativt råd** - tillsammans med andra studierektorer, utbildningsstöd, programstöd och studentkåren så är man som medlem i SA-rådet delaktig i spörsmål och beslut som rör centrala studieadminstrativa ärenden.
   
--  ✅ **Utbildningsråd (UR)** - medlem som lärarrepresentant fakulteten Datavetenskaper sedan 2021. Rådet behandlar ärenden som berör utbildningar (tex utbildningsplaner) och ämnesområden och förbereder beslut för Utbildningsutskottet.
+-  ✅ **Utbildningsråd (UR)** - lärarrepresentant för fakulteten Datavetenskaper sedan 2021. Som medlem arbetar man med kvalitets- och utvecklingsfrågor rörande BTHs
+utbildningar på grund- och avancerad nivå och är ett beredande organ till utbildningsutskottet. I rådet behandlas också t ex utbildningsplaner, nyinrättande och nedläggning av program och lokal examensbeskrivning.
   
 -  ✅ **IT referensgrupp** jag är representant för min institution i denna grupp sedan 2016. Gruppens syfte är att informera om och vara rådgörande kring central infrastruktur och mjukvara inom BTH.
 
