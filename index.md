@@ -157,12 +157,8 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 
 ---    
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
+<br><br><br><br><br>
 <div style="page-break-after: always;"></div>
 
 ## 📚 Referenser
