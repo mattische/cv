@@ -43,20 +43,20 @@ Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
 
 ### 📘 Vidareutbildning
 
-**Medietekniks handledningsprocesser 15hp** (_2006_)
+  **Medietekniks handledningsprocesser 15hp** (_2006_)
 
-- Motsvarar kursen "Högskolepedagogik".
-- Kursansvarig: professor Lena Trojer.
+  - Motsvarar kursen "Högskolepedagogik".
+  - Kursansvarig: professor Lena Trojer.
 
-**Handledning i högre utbildning** (_2014_)
+  **Handledning i högre utbildning** (_2014_)
 
-- Kurs för att utveckla sin pedagogiska skicklighet.
-- Kursansvarig: Åse Nygren.
+  - Kurs för att utveckla sin pedagogiska skicklighet.
+  - Kursansvarig: Åse Nygren.
 
-**Klart ledarskap** (_2021_)
+  **Klart ledarskap** (_2021_)
 
-- Ledarutvecklingsprogram för att utveckla sina färdigheter i att leda sig själva och andra genom formellt och informellt ledarskap.
-- Ledare: Camilla Rüden.
+  - Ledarutvecklingsprogram för att utveckla sina färdigheter i att leda sig själva och andra genom formellt och informellt ledarskap.
+  - Ledare: Camilla Rüden.
 
 ---
 
@@ -157,12 +157,8 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 
 ---    
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<br><br><br><br><br>
+<br><br><br><br><br>
 <div style="page-break-after: always;"></div>
 
 ## 📚 Referenser
