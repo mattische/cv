@@ -169,14 +169,14 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 ## 📚 Referenser
 
-  <table><tr><th>Ass. Prof.</th><th>Sven Johansson</th></tr>
+  <table><tr><th>Lektor</th><th>Sven Johansson</th></tr>
   <tr><td>Position:</td><td>Prefekt</td></tr>
   <tr><td>Organisation:</td><td>DITE, Blekinge Tekniska Högskola</td></tr>
   <tr><td>Epost:</td><td><a href="mailto:sjo@bth.se">arbete</a></td></tr>
   <tr><td>Tel 1:</td><td><a href="tel:+46455385710">+46455 38 57 10</a></td></tr>
   <tr><td>Tel 2:</td><td><a href="tel:+46708878708">+4670 887 87 08</a></td></tr></table>
 
-  <table><tr><th>Prof.</th><th>Markus Fiedler</th></tr>
+  <table><tr><th>Professor</th><th>Markus Fiedler</th></tr>
   <tr><td>Position:</td><td>Forsknings- och huvudområdesansvarig, DITE</td></tr>
   <tr><td>Organisation:</td><td>DITE, Blekinge Tekniska Högskola</td></tr>
   <tr><td>Epost:</td><td><a href="mailto:mfi@bth.se">arbete</a></td></tr>
