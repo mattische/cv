@@ -31,12 +31,14 @@ Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
 ## 🎓 UTBILDNING
 
 **Magister i Gestaltning i digitala medier**	| <a href="https://www.bth.se/" target="_blank">BTH</a> (_2003 - 2004_)
+
   - Examensarbete: Utvecklade ett "Behörighetsadminstriationssystem" (BAS) på Karlskrona kommuns IT-enhet.
   - .NET Remoting, C#, SQL Server.
 
 
                    
 **Teknologie kandidat i Medieteknik** | <a href="https://www.bth.se/" target="_blank">BTH</a> (_2000 - 2003_)  
+
   - Examensarbete: Digital ansökan på webben för körkortstillstånd på Stockholms länsstyrelse.
   - ASP.NET, C#, SQL Server, Web services.
   
@@ -44,18 +46,21 @@ Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
 ### 📘 Vidareutbildning
 
 **Klart ledarskap** | <a href="https://www.bth.se/" target="_blank">BTH</a> (_2021_)
+
   - Ledarutvecklingsprogram för att utveckla sina färdigheter i att leda sig själva och andra genom formellt och informellt ledarskap.
   - Ledare: Camilla Rüden.
 
 
 
 **Handledning i högre utbildning** | <a href="https://www.bth.se/" target="_blank">BTH</a> (_2014_)
+
   - Kurs för att utveckla sin pedagogiska skicklighet.
   - Kursansvarig: Åse Nygren.
 
  
     
 **Medietekniks handledningsprocesser 15hp** | <a href="https://www.bth.se/" target="_blank">BTH</a> (_2006_)
+
   - Motsvarar kursen "Högskolepedagogik".
   - Kursansvarig: professor Lena Trojer.
 
