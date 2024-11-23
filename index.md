@@ -9,7 +9,7 @@
 #### Kortfattat: 
 
 Jag har varit anställd på BTH sedan 2004 och i huvudsak undervisar jag på institutionen för Teknik och estetik (DITE).
-Ämnen och områden jag undervisar i, är framförallt är kopplat till webb; front-end och back-end, objektorienterad programmering och agila metoder.
+Ämnen och områden jag undervisar i är framförallt är kopplat till webb: front-end och back-end, objektorienterad programmering och agila metoder.
 Det är dessa ämnen jag är utbildad inom och intresserad av och brinner för.
 
 Parallellt med undervisning så är jag studierektor och representant i olika centrala administrativa råd och grupper.
@@ -110,7 +110,7 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 ✅ **Kombinerad mobilitet - Växla upp!** (_2018-2020_)
  
-  - Projekt med övergripand mål att minska koldioxidutsläppen från persontransporter.
+  - Projekt med övergripande mål att minska koldioxidutsläppen från persontransporter.
   - Finansierades av Europeiska regionala utvecklingsfonden (ERUF) där <a href="https://energikontorsyd.se/sv/l/projekt/25476" target="_blank">Energikontor sydost</a> var projektägare.
   - Min medverkan var i ett team från BTH och Netport som utvecklade appen <a href="https://apps.apple.com/se/app/v%C3%A4xla-upp-2/id6443443846?l=en-GB" target="_blank">Växla upp!</a> (iPhone, Android) för att registrera cykelturer.
   - Jag arbetade med att utveckla en server som tog emot, lagrade och analyserade registrerad data under användarnas cykelturer.
