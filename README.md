@@ -78,7 +78,7 @@ Jag har tagit fram, varit kursansvarig och examinator i flera fristående distan
 -  ✅ **Studieadministrativt råd** - tillsammans med andra studierektorer, utbildningsstöd, programstöd och studentkåren man som medlem delaktig i spörsmål och beslut som rör centrala studieadminstrativa ärenden.
   
 -  ✅ **Utbildningsråd (UR)** - lärarrepresentant för fakulteten för Datavetenskaper. Som medlem arbetar man med kvalitets- och utvecklingsfrågor rörande BTHs
-utbildningar på grund- och avancerad nivå och är ett beredande organ till utbildningsutskottet. I rådet behandlas också t ex utbildningsplaner, nyinrättande och nedläggning av program och lokal examensbeskrivning.
+utbildningar på grund- och avancerad nivå och är ett beredande organ till utbildningsutskottet. I rådet behandlas också exempelvis utbildningsplaner, nyinrättande och nedläggning av program och lokal examensbeskrivning.
   
 -  ✅ **IT referensgrupp** - representant för min institution i gruppen sedan 2015. Gruppens syfte är att informera om och vara rådgörande kring central infrastruktur och mjukvara inom BTH.
 
