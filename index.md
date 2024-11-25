@@ -75,7 +75,7 @@ Jag har tagit fram, varit kursansvarig och examinator i flera fristående distan
     
 -  ✅ **Studierektor** på DITE sedan 2018. I rollen ingår ansvar och arbete med institutionens tjänsteplanering, budget, verksamhetsmål och kursplanering. Jag var med och införde team-baserat arbete på institutionen vilket effektiviserade och förenklade planering och genomförande av kurser.
   
--  ✅ **Studieadministrativt råd** - tillsammans med andra studierektorer, utbildningsstöd, programstöd och studentkåren man som medlem delaktig i spörsmål och beslut som rör centrala studieadminstrativa ärenden.
+-  ✅ **Studieadministrativt råd** - tillsammans med andra studierektorer, utbildningsstöd, programstöd och studentkåren är medlemmarna i rådet delaktiga i spörsmål och beslut som rör centrala studieadminstrativa ärenden.
   
 -  ✅ **Utbildningsråd (UR)** - lärarrepresentant för fakulteten för Datavetenskaper. Som medlem arbetar man med kvalitets- och utvecklingsfrågor rörande BTHs
 utbildningar på grund- och avancerad nivå och är ett beredande organ till utbildningsutskottet. I rådet behandlas också exempelvis utbildningsplaner, nyinrättande och nedläggning av program och lokal examensbeskrivning.
