@@ -21,9 +21,9 @@ Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
 
 #### Tekniska färdigheter & kunskaper:
 
-- **Programmeringsspråk:** _javascript, python, java, C#, php; erfarenhet av Go, bash_
-- **Övrigt:** _relationsdatabaser, NoSql, git, UML, Linux (command line, ssh m.m.); erfarenhet av exempelvis Docker, Apache Kafka ._
-- **Metoder och processer**: _Scrum, Kanban, design patterns ._
+- **Programmeringsspråk:** _javascript, python, java, C#, php._
+- **Övrigt:** _relationsdatabaser, NoSql, git, Linux (command line, ssh m.m.)._
+- **Metoder och processer**: _Agila metoder, design patterns, UML._
 
 ---
 
