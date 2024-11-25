@@ -15,6 +15,7 @@ email: mattische@yahoo.com # Allow visitors to contact you
 
 # Google analytics
 enable_google_analytics: true
+google_site_verification: 9981271494
 gtm: "G-YLGYK3FTZ0"
 gtag: "G-YLGYK3FTZ0"
 google_analytics: "G-YLGYK3FTZ0"
