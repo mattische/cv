@@ -108,7 +108,7 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 ## 🌎 PROJEKT
 
-✅ **Kombinerad mobilitet - Växla upp!** (_2018-2020_)
+✅ **Kombinerad mobilitet - Växla upp!** (_2019-2021_)
  
   - Projekt med övergripande mål att minska koldioxidutsläppen från persontransporter.
   - Finansierades av Europeiska regionala utvecklingsfonden (ERUF) där <a href="https://energikontorsyd.se/sv/l/projekt/25476" target="_blank">Energikontor sydost</a> var projektägare.
