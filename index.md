@@ -118,8 +118,8 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 ✅ **Spider SMS** (_2005-2006_)
  
-  - Samarbete mellan BTH, <a href="https://mak.ac.ug/" target="_blank">Makerere University</a> (Kampala, Uganda) och <a href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a> (Manila, Filippinerna). Ansvarig från BTH var professor Lena Trojer.
-  - Finansierat av medverkande partners samt SIDA. Projektets mål var att utveckla en applikation för bönder på landsbyggden i Uganda vilka via SMS kunde få information om aktuella dagspriser på mejeriprodukter.
+  - Samarbete mellan BTH, <a href="https://mak.ac.ug/" target="_blank">Makerere University</a> (Kampala, Uganda) och <a href="https://www.dlsu.edu.ph/" target="_blank">De La Salle University</a> (Manila, Filippinerna). Finansierat av medverkande partners samt SIDA. Ansvarig från BTH var professor Lena Trojer.
+  - Projektets mål var att utveckla en applikation för bönder på landsbyggden i Uganda vilka via SMS kunde få information om aktuella dagspriser på mejeriprodukter.
   - Min roll i teamet var att ta fram en server-applikation för att lagra och distribuera priser för mejeriprodukter (API).
   - html/css/javascript, php och MySql. 
  
