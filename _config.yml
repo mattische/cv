@@ -14,5 +14,6 @@ plugins:
 email: mattische@yahoo.com # Allow visitors to contact you
 
 # Google analytics
+gtm: "G-YLGYK3FTZ0"
 gtag: "G-YLGYK3FTZ0"
 google_analytics: "G-YLGYK3FTZ0"
