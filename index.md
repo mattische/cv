@@ -72,6 +72,7 @@ Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
 
 -  ✅ **Undervisning** - Jag är både kursansvarig och examinator i flera kurser på DITE. De senaste 3 åren har jag varit delaktig i utvecklingen av distansutbildningen Design av digital upplevelser för lärande, där jag undervisar i kurser med främst tekniskt innehåll kopplat till webbteknologier och programmering. Jag är också delaktig i kurser på programmen Digitala och immersiva upplevelser, Digital bildproduktion och Digital ljudproduktion.
 Jag har tagit fram, varit kursansvarig och examinator i flera fristående distanskurser (bland annat sommarkurser) med tekniskt innehåll. 
+2022 blev jag nominerad till årets lärare på BTH av Blekinge studentkår.
     
 -  ✅ **Studierektor** på DITE sedan 2018. I rollen ingår ansvar och arbete med institutionens tjänsteplanering, budget, verksamhetsmål och kursplanering. Jag var med och införde team-baserat arbete på institutionen vilket effektiviserade och förenklade planering och genomförande av kurser.
   
