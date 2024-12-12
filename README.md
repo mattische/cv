@@ -85,7 +85,9 @@ utbildningar på grund- och avancerad nivå och är ett beredande organ till utb
 
 -  ✅ **Programansvarig** (_2010-2019_) - inom programmet Medieteknik med inriktning mot interaktiva system ansvarade jag för och utvecklade kurser med innehåll inom front-end- och back-end-utveckling. Detta resulterade i programmet Webbutveckling med start 2009 och jag blev programmansvarig året efter. Ett namnbyte gjordes 2016 till Interaktion med webbteknologier.
 
--  ✅ **Biträdande programansvarig** på programmet Digitala upplevelser för lärande. 
+-  ✅ **Biträdande programansvarig** på programmet Digitala upplevelser för lärande.
+
+-  ✅ **Nominering årets lärare** - nominerad till årets lärare 2022 av Blekinge studentkår (BSK). Motiveringen löd _"Strukturerad, hjälpsam och finns alltid där vid snabb återkoppling."_ 
 
 
 
