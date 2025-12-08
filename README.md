@@ -8,11 +8,12 @@
 
 #### Kortfattat: 
 
-Jag arbetarpå institutionen för Datavetenskap (DIDA) på BTH där jag undervisar och är studierektor. Jag började på BTH 2004 och har sedan dess bland annat varit programansvarig på institutionen för Teknik och estetik (DITE).
+Jag arbetar på institutionen för Datavetenskap (DIDA) på BTH där jag undervisar och är studierektor. 
+Sedan min start, 2004, har jag fått erfarenhet av olika aspekter av verksamheten såsom till exempel programansvarig och medlem i olika centrala råd och grupper.
 Ämnen och områden jag undervisar i är framförallt är kopplat till webb: front-end och back-end, objektorienterad programmering och agila metoder.
 Det är dessa ämnen jag är utbildad inom och intresserad av och brinner för.
 
-Parallellt med undervisning så är jag studierektor och representant i olika centrala administrativa råd och grupper.
+Parallellt med undervisning så är jag studierektor och en del av institutionens centrala processer och ledning.
 Jag har också varit programansvarig och medlem i ett antal olika projekt som utvecklare .
 
 Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
