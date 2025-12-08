@@ -8,7 +8,7 @@
 
 #### Kortfattat: 
 
-Jag har varit anställd på BTH sedan 2004 och i huvudsak undervisar jag på institutionen för Teknik och estetik (DITE).
+Jag arbetarpå institutionen för Datavetenskap (DIDA) på BTH där jag undervisar och är studierektor. Jag började på BTH 2004 och har sedan dess bland annat varit programansvarig på institutionen för Teknik och estetik (DITE).
 Ämnen och områden jag undervisar i är framförallt är kopplat till webb: front-end och back-end, objektorienterad programmering och agila metoder.
 Det är dessa ämnen jag är utbildad inom och intresserad av och brinner för.
 
