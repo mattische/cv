@@ -71,16 +71,15 @@ Min högsta akademiska examen är en magister i Gestaltning i digitala medier.
 
 ### 💡 Universitetsajunkt @ <a href="https://www.bth.se/" target="_blank">BTH</a> (_JUN 2004 - pågående_)
 
--  ✅ **Undervisning** - Jag undervisar och är kursansvarig och examinator i kurser inom Webbprogrammering och relaterade kurspaket. 
-Tidigare, inom BTH och institutionen DITE, har jag också undervisat och var delaktig i utvecklingen av distansutbildningen Design av digital upplevelser för lärande, där jag också undervisade i kurser med främst tekniskt innehåll kopplat till webbteknologier och programmering. Jag var också delaktig i kurser på programmen Digitala och immersiva upplevelser, Digital bildproduktion och Digital ljudproduktion.
+-  ✅ **Undervisning** - Jag är både kursansvarig och examinator i flera kurser på DITE. De senaste 3 åren har jag varit delaktig i utvecklingen av distansutbildningen Design av digital upplevelser för lärande, där jag undervisar i kurser med främst tekniskt innehåll kopplat till webbteknologier och programmering. Jag är också delaktig i kurser på programmen Digitala och immersiva upplevelser, Digital bildproduktion och Digital ljudproduktion.
 Jag har tagit fram, varit kursansvarig och examinator i flera fristående distanskurser (bland annat sommarkurser) med tekniskt innehåll. 
 2022 blev jag nominerad till årets lärare på BTH av Blekinge studentkår.
     
--  ✅ **Studierektor** på DIDA och tidigare på DITE sedan 2018. I rollen ingår ansvar och arbete med institutionens tjänsteplanering, budget, verksamhetsmål och kursplanering. På DITE var jag med och införde team-baserat arbete på institutionen vilket effektiviserade och förenklade planering och genomförande av kurser.
+-  ✅ **Studierektor** på DITE sedan 2018. I rollen ingår ansvar och arbete med institutionens tjänsteplanering, budget, verksamhetsmål och kursplanering. Jag var med och införde team-baserat arbete på institutionen vilket effektiviserade och förenklade planering och genomförande av kurser.
   
 -  ✅ **Studieadministrativt råd** - tillsammans med andra studierektorer, utbildningsstöd, programstöd och studentkåren är medlemmarna i rådet delaktiga i spörsmål och beslut som rör centrala studieadminstrativa ärenden.
   
--  ✅ **Utbildningsråd (UR)** - jag var under 3 års tid lärarrepresentant för fakulteten för Datavetenskaper. Som medlem arbetar man med kvalitets- och utvecklingsfrågor rörande BTHs
+-  ✅ **Utbildningsråd (UR)** - lärarrepresentant för fakulteten för Datavetenskaper. Som medlem arbetar man med kvalitets- och utvecklingsfrågor rörande BTHs
 utbildningar på grund- och avancerad nivå och är ett beredande organ till utbildningsutskottet. I rådet behandlas också exempelvis utbildningsplaner, nyinrättande och nedläggning av program och lokal examensbeskrivning.
   
 -  ✅ **IT referensgrupp** - representant för min institution i gruppen sedan 2015. Gruppens syfte är att informera om och vara rådgörande kring central infrastruktur och mjukvara inom BTH.
